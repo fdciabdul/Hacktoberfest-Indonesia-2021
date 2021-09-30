@@ -1,7 +1,6 @@
 # Hacktoberfest Indonesia
 
 <img alt="HF2020" src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg">
-<a href="https://hacktoberfest.digitalocean.com/">Event Hacktoberfest 2020</a>
 
 # Apa Itu Hacktoberfest ?
 Hacktoberfest adalah acara tahunan yang bertujuan untuk mendorong
