@@ -1,0 +1,126 @@
+/* 
+  Allow angular.js to be loaded in body, hiding cloaked elements until 
+  templates compile.  The !important is important given that there may be 
+  other selectors that are more specific or come later and might alter display.  
+ */
+[ng\:cloak], [ng-cloak], .ng-cloak {
+  display: none !important;
+}
+
+body {
+    margin-top: 20px;
+}
+
+.navbar-brand {
+    font-size: 28px;
+}
+
+.affix {
+    top: 10px;
+    left: 45%;
+}
+
+.affix-top {
+    top: 164px;
+    left: 45%;
+    position: absolute;
+}
+
+.graph {
+    background-color: rgb(249, 249, 249);
+    padding: 10px;
+}
+
+
+.d3-tip {
+    line-height: 1;
+    font-weight: bold;
+    padding: 12px;
+    background: rgba(0, 0, 0, 0.8);
+    color: #fff;
+    border-radius: 2px;
+}
+.datapoint:hover{
+    fill: steelblue;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: black;
+    shape-rendering: crispEdges;
+}
+
+.footer {
+    border-top: solid 1px;
+    border-top-color: rgb(221, 221, 221);
+    padding: 20px;
+}
+
+.statistics {
+    min-height: 600px; /* To avoid footer going up when table has less than 10 entries */
+}
+
+.chart {
+    height: 400px; /* To fix cutting graph in Firefox, also set in directive */
+}
+
+
+/* Mobile version */
+@media (max-width: 768px){
+
+    .navbar-brand {
+        display: block;
+        float: center;
+        text-align: center;
+        margin:10px 0;
+        padding: 0;
+        height: auto;
+    }
+
+    .navbar, .center-mobile, .pagination {
+        margin: 0;
+        padding: 0;
+        text-align: center;
+    }
+
+    .pagination {
+        margin-bottom: 10px;
+    }
+
+    .input-group {
+        margin-bottom: 5px;
+    }
+
+	.btn-group {
+        width: 100%;
+        margin-bottom: 3px;
+	}
+
+    .btn-success {
+        width: 33.33%;
+        width: calc(100% / 3);
+    }
+
+	.btn-primary {
+        width: 100%;
+	}
+
+    .affix, .affix-top {
+        position: relative;
+        top: 0;
+        left: 0;
+    }
+
+    .graph {
+        padding: 0;
+    }
+
+    .ribbon {
+        display: none;
+    }
+    .footer {
+        padding: 0;
+        padding-top: 10px;
+    }
+}

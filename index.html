@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html ng-app="forks">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Github fork stats</title>
+        <link rel="shortcut icon" type="image/png" href="img/favicon.png" />
+        <link rel="stylesheet" href="css/bootstrap.css" type="text/css">
+        <link rel="stylesheet" href="css/style.css" type="text/css">
+    </head>
+    <body class="container" ng-controller="ForksController" ng-cloak>
+        
+        <nav class="navbar navbar-primary">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <a class="navbar-brand" href="index.html">Hacktoberfest Indonesia 2021</a>
+                </div>
+                <!-- <form class="navbar-form navbar-right" role="search" ng-submit="submit()">
+                    <div class="input-group">
+                        <span class="input-group-addon">user</span>
+                        <input class="form-control" ng-model="user" ng-model-options="{ updateOn: 'submit' }" name="user" type="text" placeholder="user" required>
+                    </div>
+                    <div class="input-group">
+                        <span class="input-group-addon">repo</span>
+                        <input class="form-control" ng-model="repo" ng-model-options="{ updateOn: 'submit' }" name="repo" type="text" placeholder="repository" required>
+                    </div>
+                    <div class="btn-group" popover="Display per page" popover-trigger="mouseenter" popover-placement="bottom">
+                        <label class="btn btn-success" ng-model="perPageButton" btn-radio="'30'">30</label>
+                        <label class="btn btn-success" ng-model="perPageButton" btn-radio="'50'">50</label>
+                        <label class="btn btn-success" ng-model="perPageButton" btn-radio="'100'">100</label>
+                    </div>
+                    <button class="btn btn-primary" type="submit">Search</button>
+                </form> -->
+            </div>
+        </nav>
+
+        <div class="center-mobile">
+            <pagination total-items="forksCount" items-per-page="perPage" ng-model="currentPage" ng-change="getForks()" 
+            max-size="maxSize" class="pagination-sm" boundary-links="true" rotate="false" ng-hide="showMessage && perPage === 1" previous-text="&lsaquo;" next-text="&rsaquo;" first-text="&laquo;" last-text="&raquo;"></pagination>
+        </div>
+        <div class="row" ng-show="showMessage">
+                <div class="alert alert-danger" role="alert"> {{ message }}</div>
+        </div>
+        <div class="row statistics" ng-hide="showMessage">
+            <div class="col-md-5 col-sm-6 col-xs-12 graph text-center" data-spy="affix" data-offset-top="154">
+                <!-- This is wheere we draw the graph -->
+                <line-graph></line-graph>
+                <h4>Graph showing total forks count over time on repo <a ng-href="https://github.com/{{user}}/{{repo}}">{{user}}/{{repo}}</a></h4>
+            </div>
+
+            <div class="col-md-5 col-sm-5 col-xs-20">
+                <table class="table table-striped table-hover table-bordered">
+                    <tr>
+                        <th>#</th>
+                        <th>Avatar</th>
+                        <th>User</th>
+                        <th>Fork</th>
+                        <th>Date</th>
+                    </tr>
+                    <tr ng-repeat="fork in forks">
+                        <!-- Calculate the fork number chronologically -->
+                    <!-- {{ forksCount - (currentPage - 1) * perPage - forks.indexOf(fork) }} -->
+                        <td><img class="img-responsive" ng-src=" {{ fork.owner.avatar_url }}"></td>
+                        <td><a ng-href=" {{ fork.owner.html_url }}">{{ fork.owner.login }}</a></td>
+                        <td><a ng-href=" {{ fork.html_url }}">{{ fork.name }}</a></td>
+                        <td>{{ fork.created_at | date: 'MMM d, yyyy' : 'UTC'}}</td> <!-- We show UTC+0 to have same date than in graph, not browser local time -->
+                    </tr>
+                </table>   
+            </div>
+        </div>
+
+        <script src="http://d3js.org/d3.v3.min.js"></script>
+        <script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+        <script type="text/javascript" src="lib/angular.js"></script>
+        <script type="text/javascript" src="lib/angular-resource.js"></script>
+        <script type="text/javascript" src="lib/ui-bootstrap-tpls-0.12.0.min.js"></script>
+        <script type="text/javascript" src="lib/bootstrap.min.js"></script>
+        <script type="text/javascript" src="js/services.js"></script>
+        <script type="text/javascript" src="js/controllers.js"></script>
+        <script type="text/javascript" src="js/directives.js"></script>
+        <script type="text/javascript" src="js/app.js"></script>
+        <script>
+          // (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+          // (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          // m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+          // })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+          // ga('create', 'UA-50633286-2', 'auto');
+          // ga('send', 'pageview');
+      </script>
+</body>
+</html>
