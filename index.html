@@ -59,7 +59,7 @@
                     </tr>
                     <tr ng-repeat="fork in forks">
                         <!-- Calculate the fork number chronologically -->
-                    <!-- {{ forksCount - (currentPage - 1) * perPage - forks.indexOf(fork) }} -->
+                    <td>{{ forksCount - (currentPage - 1) * perPage - forks.indexOf(fork) }} </td>
                         <td><img class="img-responsive" ng-src=" {{ fork.owner.avatar_url }}"></td>
                         <td><a ng-href=" {{ fork.owner.html_url }}">{{ fork.owner.login }}</a></td>
                         <td><a ng-href=" {{ fork.html_url }}">{{ fork.name }}</a></td>
