@@ -28,7 +28,7 @@ Mulailah berkontribusi di berbagai repository di github
 - Copy semua kode template yang kalian isi tadi 
 
 - Buka folder `profile` di repository ini
- kemudian klik titik 3 disamping kanan dan klik `Create New File`
+  kemudian klik  Add File disamping kanan dan klik `Create New File`
 
 - Beri nama file nya `Namamu.md` dan Pastekan kode Markdown yang tadi sudah di copy
 
