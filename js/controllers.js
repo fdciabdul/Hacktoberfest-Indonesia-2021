@@ -18,7 +18,7 @@
             $scope.showMessage = false;
             $scope.message = '';
             $scope.user = 'fdciabdul';
-            $scope.repo = 'hacktoberfest-indonesia';
+            $scope.repo = 'Hacktoberfest-Indonesia-2021';
 
             // Pagination
             $scope.perPageButton = '30';
