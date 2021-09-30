@@ -26,12 +26,14 @@ Acara ini bebas untuk siapa saja baik untuk pemula hingga professional sekalipun
 
 - Selamat mengikuti Hacktoberfest 🌠
 
+  Atau kamu bisa mengisi kode dalam folder code , isikan snippet kode apa
+
 ----
 ## Kontributor List
 
-Kalian bisa melihat kontributor dan Bio kalian sendiri disini
+Kalian bisa melihat siapa saja yang berkontribusi dalam repository ini
 
-<a href="https://fdciabdul.github.io/hacktoberfest-indonesia/"/> Kontributor List</a>
+<a href="https://fdciabdul.github.io/Hacktoberfest-Indonesia-2021/"/> Kontributor List</a>
 
 ----
 ## Bagaimana cara berkontribusi di Repository github ?
