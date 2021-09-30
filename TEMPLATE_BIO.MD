@@ -3,7 +3,7 @@ Namamu
 
 <img src="https://urlgambafotomu" width="200" height="200" align="center"/>
 
-### Provisi & Kota
+### Provinsi & Kota
 
 Provinsi , Kota
 
