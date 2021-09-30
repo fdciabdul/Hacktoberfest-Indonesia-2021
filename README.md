@@ -10,8 +10,19 @@ berkontribusi kedalam ekosistem open source .
 Acara ini bebas untuk siapa saja baik untuk pemula hingga professional sekalipun , berlangsung mulai dari tanggal
 1 oktober hingga 31 oktober . acara tahun ini di jalankan oleh digital ocean , github dan dev.to . target dari acara ini adalah peserta dapat melakukan 4 pull request di antara tanggal 1 hingga 31 oktober 2021.
 
+# Cara daftar Hacktoberfest
 
-# Berkontribusi di Repository Ini
+- Buka link ini https://hacktoberfest.digitalocean.com/
+- klik ![image](https://user-images.githubusercontent.com/31664438/135388900-c636109d-b597-492e-9430-04f22e4e98e6.png)
+- klik ![image](https://user-images.githubusercontent.com/31664438/135388934-a11297cc-cdf4-42ed-8546-dbd66294f34d.png)
+- Centang informasi sesuai dengan informasi dirimu sendiri
+
+Mulailah berkontribusi di berbagai repository di github 
+![image](https://user-images.githubusercontent.com/31664438/135389094-3e967ad0-3559-47af-a0b6-f7fd45bec682.png)
+
+
+
+# Cara Berkontribusi di Repository Ini
 
 - Silahkan klik `TEMPLATE_BIO.md` kemudian klik edit
 
