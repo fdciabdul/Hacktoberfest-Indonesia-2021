@@ -26,7 +26,7 @@ Acara ini bebas untuk siapa saja baik untuk pemula hingga professional sekalipun
 
 - Selamat mengikuti Hacktoberfest 🌠
 
-  Atau kamu bisa mengisi kode dalam folder code , isikan snippet kode apa
+  Atau kamu bisa mengisi kode dalam folder code , isikan snippet kode apapun didalam nya
 
 ----
 ## Kontributor List
