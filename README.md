@@ -8,7 +8,7 @@ Hacktoberfest adalah acara tahunan yang bertujuan untuk mendorong
 berkontribusi kedalam ekosistem open source . 
 
 Acara ini bebas untuk siapa saja baik untuk pemula hingga professional sekalipun , berlangsung mulai dari tanggal
-1 oktober hingga 31 oktober . acara tahun ini di jalankan oleh digital ocean , github dan dev.to . target dari acara ini adalah peserta dapat melakukan 4 pull request di antara tanggal 1 hingga 31 oktober 2020.
+1 oktober hingga 31 oktober . acara tahun ini di jalankan oleh digital ocean , github dan dev.to . target dari acara ini adalah peserta dapat melakukan 4 pull request di antara tanggal 1 hingga 31 oktober 2021.
 
 
 # Berkontribusi di Repository Ini
