@@ -17,8 +17,6 @@ Acara ini bebas untuk siapa saja baik untuk pemula hingga professional sekalipun
 - Centang informasi sesuai dengan informasi dirimu sendiri
 
 Mulailah berkontribusi di berbagai repository di github 
-![image](https://user-images.githubusercontent.com/31664438/135389094-3e967ad0-3559-47af-a0b6-f7fd45bec682.png)
-
 
 
 # Cara Berkontribusi di Repository Ini
