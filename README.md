@@ -52,7 +52,7 @@ Mulailah berkontribusi di berbagai repository di github
         <a href="https://github.com/aisyalfawwaz">
             <img src="https://avatars.githubusercontent.com/u/59833758?v=4" width="100;" alt="aisyalfawwaz"/>
             <br />
-            <sub><b>aisyalfawwaz</b></sub>
+            <sub><b>Aisyalfawwaz</b></sub>
         </a>
     </td>
     <td align="center">
@@ -66,7 +66,7 @@ Mulailah berkontribusi di berbagai repository di github
         <a href="https://github.com/ricky-158">
             <img src="https://avatars.githubusercontent.com/u/77603004?v=4" width="100;" alt="ricky-158"/>
             <br />
-            <sub><b>ricky-158</b></sub>
+            <sub><b>Ricky-158</b></sub>
         </a>
     </td>
     <td align="center">
@@ -80,10 +80,17 @@ Mulailah berkontribusi di berbagai repository di github
         <a href="https://github.com/adityamputra27">
             <img src="https://avatars.githubusercontent.com/u/68887223?v=4" width="100;" alt="adityamputra27"/>
             <br />
-            <sub><b>adityamputra27</b></sub>
+            <sub><b>Adityamputra27</b></sub>
         </a>
     </td></tr>
 <tr>
+    <td align="center">
+        <a href="https://github.com/Gitcomeon8">
+            <img src="https://avatars.githubusercontent.com/u/91707718?v=4" width="100;" alt="Gitcomeon8"/>
+            <br />
+            <sub><b>Agung Xp</b></sub>
+        </a>
+    </td>
     <td align="center">
         <a href="https://github.com/doniambarita">
             <img src="https://avatars.githubusercontent.com/u/69050120?v=4" width="100;" alt="doniambarita"/>
