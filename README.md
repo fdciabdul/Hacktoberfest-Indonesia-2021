@@ -85,13 +85,6 @@ Mulailah berkontribusi di berbagai repository di github
     </td></tr>
 <tr>
     <td align="center">
-        <a href="https://github.com/Gitcomeon8">
-            <img src="https://avatars.githubusercontent.com/u/91707718?v=4" width="100;" alt="Gitcomeon8"/>
-            <br />
-            <sub><b>Agung Xp</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/doniambarita">
             <img src="https://avatars.githubusercontent.com/u/69050120?v=4" width="100;" alt="doniambarita"/>
             <br />
