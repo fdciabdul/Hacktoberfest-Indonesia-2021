@@ -1,5 +1,5 @@
 # Nama
-Azka Ainul Maarij
+Azka Ainul Ma'arij
 
 <img src="https://avatars.githubusercontent.com/u/35652825?s=" width="200" height="200" align="center"/>
 
@@ -20,7 +20,6 @@ Universitas Semarang
 - Python
 
 ### Project
-
 
 
 ### Profile Link

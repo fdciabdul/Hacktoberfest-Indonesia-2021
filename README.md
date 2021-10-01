@@ -56,6 +56,13 @@ Mulailah berkontribusi di berbagai repository di github
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/NoXLaw">
+            <img src="https://avatars.githubusercontent.com/u/35652825?v=4" width="100;" alt="NoXLaw"/>
+            <br />
+            <sub><b>Azka Ainul Maarij</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/aisyalfawwaz">
             <img src="https://avatars.githubusercontent.com/u/59833758?v=4" width="100;" alt="aisyalfawwaz"/>
             <br />
@@ -91,13 +98,7 @@ Mulailah berkontribusi di berbagai repository di github
         </a>
     </td></tr>
 <tr>
-    <td align="center">
-        <a href="https://github.com/NoXLaw">
-            <img src="https://avatars.githubusercontent.com/u/35652825?v=4" width="100;" alt="NoXLaw"/>
-            <br />
-            <sub><b>Azka Ainul Maarij</b></sub>
-        </a>
-    </td>
+
     <td align="center">
         <a href="https://github.com/Rayhan212">
             <img src="https://avatars.githubusercontent.com/u/68719170?v=4" width="100;" alt="Rayhan212"/>
@@ -120,20 +121,27 @@ Mulailah berkontribusi di berbagai repository di github
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/dickyrex19">
+            <img src="https://avatars.githubusercontent.com/u/27257736?v=4" width="100;" alt="dickyrex19"/>
+            <br />
+            <sub><b>Dickyrex19</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/doniambarita">
             <img src="https://avatars.githubusercontent.com/u/69050120?v=4" width="100;" alt="doniambarita"/>
             <br />
             <sub><b>DoniGanteng</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/hafidmust">
             <img src="https://avatars.githubusercontent.com/u/85917329?v=4" width="100;" alt="hafidmust"/>
             <br />
             <sub><b>Hafid Ali Mustaqim</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/rasyidzkun">
             <img src="https://avatars.githubusercontent.com/u/61974564?v=4" width="100;" alt="rasyidzkun"/>
