@@ -39,6 +39,66 @@ Mulailah berkontribusi di berbagai repository di github
 ----
 ## Kontributor List
 <!-- readme: contributors -start -->
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/fdciabdul">
+            <img src="https://avatars.githubusercontent.com/u/31664438?v=4" width="100;" alt="fdciabdul"/>
+            <br />
+            <sub><b>Abdul Muttaqin</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/aisyalfawwaz">
+            <img src="https://avatars.githubusercontent.com/u/59833758?v=4" width="100;" alt="aisyalfawwaz"/>
+            <br />
+            <sub><b>aisyalfawwaz</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/masgalih320">
+            <img src="https://avatars.githubusercontent.com/u/91511974?v=4" width="100;" alt="masgalih320"/>
+            <br />
+            <sub><b>Its Galih</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/ricky-158">
+            <img src="https://avatars.githubusercontent.com/u/77603004?v=4" width="100;" alt="ricky-158"/>
+            <br />
+            <sub><b>ricky-158</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Rayhan212">
+            <img src="https://avatars.githubusercontent.com/u/68719170?v=4" width="100;" alt="Rayhan212"/>
+            <br />
+            <sub><b>Rayhan212</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/adityamputra27">
+            <img src="https://avatars.githubusercontent.com/u/68887223?v=4" width="100;" alt="adityamputra27"/>
+            <br />
+            <sub><b>adityamputra27</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
+        <a href="https://github.com/doniambarita">
+            <img src="https://avatars.githubusercontent.com/u/69050120?v=4" width="100;" alt="doniambarita"/>
+            <br />
+            <sub><b>DoniGanteng</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/rasyidzkun">
+            <img src="https://avatars.githubusercontent.com/u/61974564?v=4" width="100;" alt="rasyidzkun"/>
+            <br />
+            <sub><b>Ar Rasyid Sarifullah</b></sub>
+        </a>
+    </td></tr>
+</table>
 <!-- readme: contributors -end -->
 Kalian bisa melihat siapa saja yang berkontribusi dalam repository ini
 
