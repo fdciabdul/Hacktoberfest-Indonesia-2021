@@ -77,20 +77,27 @@ Mulailah berkontribusi di berbagai repository di github
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/Zzfathir">
+            <img src="https://avatars.githubusercontent.com/u/71886579?v=4" width="100;" alt="Zzfathir"/>
+            <br />
+            <sub><b>Ahmad Fathir</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/linkusers">
             <img src="https://avatars.githubusercontent.com/u/65387793?v=4" width="100;" alt="linkusers"/>
             <br />
             <sub><b>Ahmad Rafli</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/masgalih320">
             <img src="https://avatars.githubusercontent.com/u/91511974?v=4" width="100;" alt="masgalih320"/>
             <br />
             <sub><b>Its Galih</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/ricky-158">
             <img src="https://avatars.githubusercontent.com/u/77603004?v=4" width="100;" alt="ricky-158"/>
@@ -99,10 +106,46 @@ Mulailah berkontribusi di berbagai repository di github
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/antarezaghifary">
+            <img src="https://avatars.githubusercontent.com/u/27753675?v=4" width="100;" alt="antarezaghifary"/>
+            <br />
+            <sub><b>Antareza Ghifary AM</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/arip1997">
+            <img src="https://avatars.githubusercontent.com/u/49529769?v=4" width="100;" alt="arip1997"/>
+            <br />
+            <sub><b>Arif Rahmat Santoso</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/whytupan1010">
+            <img src="https://avatars.githubusercontent.com/u/73270151?v=4" width="100;" alt="whytupan1010"/>
+            <br />
+            <sub><b>Dannn</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Dennypyp">
+            <img src="https://avatars.githubusercontent.com/u/59425929?v=4" width="100;" alt="Dennypyp"/>
+            <br />
+            <sub><b>Denny Putra Yudha Pratama</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
         <a href="https://github.com/faizalanwar">
             <img src="https://avatars.githubusercontent.com/u/52071488?v=4" width="100;" alt="faizalanwar"/>
             <br />
             <sub><b>Faizal Anwar</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/GathanAkhtar">
+            <img src="https://avatars.githubusercontent.com/u/58353389?v=4" width="100;" alt="GathanAkhtar"/>
+            <br />
+            <sub><b>Gathan Akhtar</b></sub>
         </a>
     </td>
     <td align="center">
@@ -127,18 +170,32 @@ Mulailah berkontribusi di berbagai repository di github
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/saamodra">
+            <img src="https://avatars.githubusercontent.com/u/38998978?v=4" width="100;" alt="saamodra"/>
+            <br />
+            <sub><b>Samodra</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
         <a href="https://github.com/adityamputra27">
             <img src="https://avatars.githubusercontent.com/u/68887223?v=4" width="100;" alt="adityamputra27"/>
             <br />
             <sub><b>Adityamputra27</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Gitcomeon8">
             <img src="https://avatars.githubusercontent.com/u/91707718?v=4" width="100;" alt="Gitcomeon8"/>
             <br />
             <sub><b>Agung Xp</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/alikanz">
+            <img src="https://avatars.githubusercontent.com/u/90445044?v=4" width="100;" alt="alikanz"/>
+            <br />
+            <sub><b>alikanz</b></sub>
         </a>
     </td>
     <td align="center">
@@ -161,7 +218,8 @@ Mulailah berkontribusi di berbagai repository di github
             <br />
             <sub><b>DoniGanteng</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/farhandanu12">
             <img src="https://avatars.githubusercontent.com/u/72136325?v=4" width="100;" alt="farhandanu12"/>
@@ -170,13 +228,19 @@ Mulailah berkontribusi di berbagai repository di github
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/fihryal">
+            <img src="https://avatars.githubusercontent.com/u/68418705?v=4" width="100;" alt="fihryal"/>
+            <br />
+            <sub><b>Fihryal Faqiy</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/hafidmust">
             <img src="https://avatars.githubusercontent.com/u/85917329?v=4" width="100;" alt="hafidmust"/>
             <br />
             <sub><b>Hafid Ali Mustaqim</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/ialexanderbrito">
             <img src="https://avatars.githubusercontent.com/u/36086408?v=4" width="100;" alt="ialexanderbrito"/>
@@ -185,17 +249,17 @@ Mulailah berkontribusi di berbagai repository di github
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/nanzcakep">
+            <img src="https://avatars.githubusercontent.com/u/43292701?v=4" width="100;" alt="nanzcakep"/>
+            <br />
+            <sub><b>nanzcakep</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/pforpajri">
             <img src="https://avatars.githubusercontent.com/u/57586918?v=4" width="100;" alt="pforpajri"/>
             <br />
             <sub><b>Pajri Zahrawaani Ahmad</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/rasyidzkun">
-            <img src="https://avatars.githubusercontent.com/u/61974564?v=4" width="100;" alt="rasyidzkun"/>
-            <br />
-            <sub><b>Ar Rasyid Sarifullah</b></sub>
         </a>
     </td></tr>
 </table>
