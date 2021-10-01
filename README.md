@@ -56,6 +56,13 @@ Mulailah berkontribusi di berbagai repository di github
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/NoXLaw">
+            <img src="https://avatars.githubusercontent.com/u/35652825?v=4" width="100;" alt="NoXLaw"/>
+            <br />
+            <sub><b>Azka Ainul Maarij</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/linkusers">
             <img src="https://avatars.githubusercontent.com/u/65387793?v=4" width="100;" alt="linkusers"/>
             <br />
@@ -74,13 +81,6 @@ Mulailah berkontribusi di berbagai repository di github
             <img src="https://avatars.githubusercontent.com/u/77603004?v=4" width="100;" alt="ricky-158"/>
             <br />
             <sub><b>Ricky-158</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/NoXLaw">
-            <img src="https://avatars.githubusercontent.com/u/35652825?v=4" width="100;" alt="NoXLaw"/>
-            <br />
-            <sub><b>Azka Ainul Maarij</b></sub>
         </a>
     </td></tr>
 <tr>
@@ -116,7 +116,7 @@ Mulailah berkontribusi di berbagai repository di github
         <a href="https://github.com/dickyrex19">
             <img src="https://avatars.githubusercontent.com/u/27257736?v=4" width="100;" alt="dickyrex19"/>
             <br />
-            <sub><b>dickyrex19</b></sub>
+            <sub><b>Dickyrex19</b></sub>
         </a>
     </td>
     <td align="center">
