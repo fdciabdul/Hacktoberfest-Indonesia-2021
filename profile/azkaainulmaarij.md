@@ -13,7 +13,7 @@ Universitas Semarang
 ### Hobi
 
 - Begadang
-
+- Ngehek
 
 ### Bahasa Pemograman 
 
