@@ -56,6 +56,13 @@ Mulailah berkontribusi di berbagai repository di github
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/rizkytegar">
+            <img src="https://avatars.githubusercontent.com/u/55475891?v=4" width="100;" alt="rizkytegar"/>
+            <br />
+            <sub><b>>_Rizky.dev</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/NoXLaw">
             <img src="https://avatars.githubusercontent.com/u/35652825?v=4" width="100;" alt="NoXLaw"/>
             <br />
@@ -67,13 +74,6 @@ Mulailah berkontribusi di berbagai repository di github
             <img src="https://avatars.githubusercontent.com/u/59833758?v=4" width="100;" alt="aisyalfawwaz"/>
             <br />
             <sub><b>Aisyalfawwaz</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/rizkytegar">
-            <img src="https://avatars.githubusercontent.com/u/55475891?v=4" width="100;" alt="rizkytegar"/>
-            <br />
-            <sub><b>>_Rizky.dev</b></sub>
         </a>
     </td>
     <td align="center">
@@ -89,16 +89,15 @@ Mulailah berkontribusi di berbagai repository di github
             <br />
             <sub><b>Its Galih</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/ricky-158">
             <img src="https://avatars.githubusercontent.com/u/77603004?v=4" width="100;" alt="ricky-158"/>
             <br />
             <sub><b>Ricky-158</b></sub>
         </a>
-    </td></tr>
-<tr>
-
+    </td>
     <td align="center">
         <a href="https://github.com/Rayhan212">
             <img src="https://avatars.githubusercontent.com/u/68719170?v=4" width="100;" alt="Rayhan212"/>
