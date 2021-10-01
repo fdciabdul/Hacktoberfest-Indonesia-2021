@@ -38,7 +38,8 @@ Mulailah berkontribusi di berbagai repository di github
 
 ----
 ## Kontributor List
-
+<!-- readme: contributors -start -->
+<!-- readme: contributors -end -->
 Kalian bisa melihat siapa saja yang berkontribusi dalam repository ini
 
 <a href="https://fdciabdul.github.io/Hacktoberfest-Indonesia-2021/"/> Kontributor List</a>
