@@ -1,20 +1,20 @@
 # Nama
-Silvi
+Candy
 
-<img src=https://cdn-icons-png.flaticon.com/512/149/149071.png" width="200" height="200" align="center"/>
+<img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="200" height="200" align="center"/>
 
 ### Provisi & Kota
 
-Jawa Timur , Lamongan
+Medan , medan
 
 ### Sekolah / Akademik
 
-- Universitas Islam Negeri Jakarta
+- SMA 1 Sutomo Medan
 
 ### Hobi
 
 - Begadang
-- Membaca
+- Main Game
 
 
 ### Bahasa Pemograman 
@@ -22,7 +22,7 @@ Jawa Timur , Lamongan
 - Javascript
 - HTML
 - Python
-- Matlab
+- CSS
 
 ### Project
 
