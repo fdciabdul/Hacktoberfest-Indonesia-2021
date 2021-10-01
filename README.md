@@ -92,6 +92,13 @@ Mulailah berkontribusi di berbagai repository di github
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/rizkytegar">
+            <img src="https://avatars.githubusercontent.com/u/55475891?v=4" width="100;" alt="rizkytegar"/>
+            <br />
+            <sub><b>>_Rizky.dev</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/adityamputra27">
             <img src="https://avatars.githubusercontent.com/u/68887223?v=4" width="100;" alt="adityamputra27"/>
             <br />
@@ -118,7 +125,8 @@ Mulailah berkontribusi di berbagai repository di github
             <br />
             <sub><b>Hafid Ali Mustaqim</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/rasyidzkun">
             <img src="https://avatars.githubusercontent.com/u/61974564?v=4" width="100;" alt="rasyidzkun"/>
