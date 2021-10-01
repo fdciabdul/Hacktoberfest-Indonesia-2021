@@ -49,17 +49,17 @@ Mulailah berkontribusi di berbagai repository di github
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/aisyalfawwaz">
-            <img src="https://avatars.githubusercontent.com/u/59833758?v=4" width="100;" alt="aisyalfawwaz"/>
-            <br />
-            <sub><b>Aisyalfawwaz</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/NoXLaw">
             <img src="https://avatars.githubusercontent.com/u/35652825?v=4" width="100;" alt="NoXLaw"/>
             <br />
             <sub><b>Azka Ainul Maarij</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/aisyalfawwaz">
+            <img src="https://avatars.githubusercontent.com/u/59833758?v=4" width="100;" alt="aisyalfawwaz"/>
+            <br />
+            <sub><b>Aisyalfawwaz</b></sub>
         </a>
     </td>
     <td align="center">
