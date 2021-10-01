@@ -15,22 +15,7 @@
                 <div class="navbar-header">
                     <a class="navbar-brand" href="index.html">Hacktoberfest Indonesia 2021</a>
                 </div>
-                <!-- <form class="navbar-form navbar-right" role="search" ng-submit="submit()">
-                    <div class="input-group">
-                        <span class="input-group-addon">user</span>
-                        <input class="form-control" ng-model="user" ng-model-options="{ updateOn: 'submit' }" name="user" type="text" placeholder="user" required>
-                    </div>
-                    <div class="input-group">
-                        <span class="input-group-addon">repo</span>
-                        <input class="form-control" ng-model="repo" ng-model-options="{ updateOn: 'submit' }" name="repo" type="text" placeholder="repository" required>
-                    </div>
-                    <div class="btn-group" popover="Display per page" popover-trigger="mouseenter" popover-placement="bottom">
-                        <label class="btn btn-success" ng-model="perPageButton" btn-radio="'30'">30</label>
-                        <label class="btn btn-success" ng-model="perPageButton" btn-radio="'50'">50</label>
-                        <label class="btn btn-success" ng-model="perPageButton" btn-radio="'100'">100</label>
-                    </div>
-                    <button class="btn btn-primary" type="submit">Search</button>
-                </form> -->
+              
             </div>
         </nav>
 
@@ -58,7 +43,7 @@
                         <th>Date</th>
                     </tr>
                     <tr ng-repeat="fork in forks">
-                        <!-- Calculate the fork number chronologically -->
+                       
                     <td>{{ forksCount - (currentPage - 1) * perPage - forks.indexOf(fork) }} </td>
                         <td><img class="img-responsive" ng-src=" {{ fork.owner.avatar_url }}"></td>
                         <td><a ng-href=" {{ fork.owner.html_url }}">{{ fork.owner.login }}</a></td>
@@ -69,8 +54,8 @@
             </div>
         </div>
 
-        <script src="http://d3js.org/d3.v3.min.js"></script>
-        <script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
+        <script src="https://d3js.org/d3.v3.min.js"></script>
+        <script src="https://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
         <script type="text/javascript" src="lib/angular.js"></script>
         <script type="text/javascript" src="lib/angular-resource.js"></script>
