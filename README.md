@@ -206,20 +206,27 @@ Mulailah berkontribusi di berbagai repository di github
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/SeptiyanNugroho">
+            <img src="https://avatars.githubusercontent.com/u/64180814?v=4" width="100;" alt="SeptiyanNugroho"/>
+            <br />
+            <sub><b>SeptiyanNugroho</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/adityamputra27">
             <img src="https://avatars.githubusercontent.com/u/68887223?v=4" width="100;" alt="adityamputra27"/>
             <br />
             <sub><b>Adityamputra27</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Gitcomeon8">
             <img src="https://avatars.githubusercontent.com/u/91707718?v=4" width="100;" alt="Gitcomeon8"/>
             <br />
             <sub><b>Agung Xp</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/alikanz">
             <img src="https://avatars.githubusercontent.com/u/90445044?v=4" width="100;" alt="alikanz"/>
@@ -253,13 +260,6 @@ Mulailah berkontribusi di berbagai repository di github
             <img src="https://avatars.githubusercontent.com/u/68418705?v=4" width="100;" alt="fihryal"/>
             <br />
             <sub><b>Fihryal Faqiy</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/hafidmust">
-            <img src="https://avatars.githubusercontent.com/u/85917329?v=4" width="100;" alt="hafidmust"/>
-            <br />
-            <sub><b>Hafid Ali Mustaqim</b></sub>
         </a>
     </td></tr>
 </table>
