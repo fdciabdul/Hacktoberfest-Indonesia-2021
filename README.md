@@ -221,6 +221,13 @@ Mulailah berkontribusi di berbagai repository di github
     </td></tr>
 <tr>
     <td align="center">
+        <a href="https://github.com/bimbims125">
+            <img src="https://avatars.githubusercontent.com/u/65021963?v=4" width="100;" alt="bimbims125"/>
+            <br />
+            <sub><b>Pramdhanni</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/dfr-hub">
             <img src="https://avatars.githubusercontent.com/u/61171506?v=4" width="100;" alt="dfr-hub"/>
             <br />
@@ -253,13 +260,6 @@ Mulailah berkontribusi di berbagai repository di github
             <img src="https://avatars.githubusercontent.com/u/85917329?v=4" width="100;" alt="hafidmust"/>
             <br />
             <sub><b>Hafid Ali Mustaqim</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/ialexanderbrito">
-            <img src="https://avatars.githubusercontent.com/u/36086408?v=4" width="100;" alt="ialexanderbrito"/>
-            <br />
-            <sub><b>Alexander</b></sub>
         </a>
     </td></tr>
 </table>
