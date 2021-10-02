@@ -92,6 +92,13 @@ Mulailah berkontribusi di berbagai repository di github
     </td></tr>
 <tr>
     <td align="center">
+        <a href="https://github.com/farhandanu12">
+            <img src="https://avatars.githubusercontent.com/u/72136325?v=4" width="100;" alt="farhandanu12"/>
+            <br />
+            <sub><b>Farhandanu12</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/masgalih320">
             <img src="https://avatars.githubusercontent.com/u/91511974?v=4" width="100;" alt="masgalih320"/>
             <br />
@@ -125,15 +132,22 @@ Mulailah berkontribusi di berbagai repository di github
             <br />
             <sub><b>Dannn</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Dennypyp">
             <img src="https://avatars.githubusercontent.com/u/59425929?v=4" width="100;" alt="Dennypyp"/>
             <br />
             <sub><b>Denny Putra Yudha Pratama</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
+    <td align="center">
+        <a href="https://github.com/aprian1337">
+            <img src="https://avatars.githubusercontent.com/u/55075488?v=4" width="100;" alt="aprian1337"/>
+            <br />
+            <sub><b>Dwiky Aprian Ashari</b></sub>
+        </a>
+    </td>
     <td align="center">
         <a href="https://github.com/faizalanwar">
             <img src="https://avatars.githubusercontent.com/u/52071488?v=4" width="100;" alt="faizalanwar"/>
@@ -161,6 +175,14 @@ Mulailah berkontribusi di berbagai repository di github
             <br />
             <sub><b>Lukman</b></sub>
         </a>
+    </td></tr>
+<tr>
+    <td align="center">
+        <a href="https://github.com/Marcelinoderry">
+            <img src="https://avatars.githubusercontent.com/u/30742802?v=4" width="100;" alt="Marcelinoderry"/>
+            <br />
+            <sub><b>Marcelino Derry Utomo</b></sub>
+        </a>
     </td>
     <td align="center">
         <a href="https://github.com/Rayhan212">
@@ -175,8 +197,7 @@ Mulailah berkontribusi di berbagai repository di github
             <br />
             <sub><b>Samodra</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/adityamputra27">
             <img src="https://avatars.githubusercontent.com/u/68887223?v=4" width="100;" alt="adityamputra27"/>
@@ -196,15 +217,10 @@ Mulailah berkontribusi di berbagai repository di github
             <img src="https://avatars.githubusercontent.com/u/90445044?v=4" width="100;" alt="alikanz"/>
             <br />
             <sub><b>Alikanz</b></sub>
+
         </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/bimbims125">
-            <img src="https://avatars.githubusercontent.com/u/65021963?v=4" width="100;" alt="bimbims125"/>
-            <br />
-            <sub><b>Pramdhanni</b></sub>
-        </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/dfr-hub">
             <img src="https://avatars.githubusercontent.com/u/61171506?v=4" width="100;" alt="dfr-hub"/>
@@ -226,13 +242,7 @@ Mulailah berkontribusi di berbagai repository di github
             <br />
             <sub><b>DoniGanteng</b></sub>
         </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/farhandanu12">
-            <img src="https://avatars.githubusercontent.com/u/72136325?v=4" width="100;" alt="farhandanu12"/>
-            <br />
-            <sub><b>Farhandanu12</b></sub>
-        </a>
+
     </td>
     <td align="center">
         <a href="https://github.com/fihryal">
@@ -254,13 +264,7 @@ Mulailah berkontribusi di berbagai repository di github
             <br />
             <sub><b>Alexander</b></sub>
         </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/nanzcakep">
-            <img src="https://avatars.githubusercontent.com/u/43292701?v=4" width="100;" alt="nanzcakep"/>
-            <br />
-            <sub><b>Nanzcakep</b></sub>
-        </a>
+
     </td></tr>
 </table>
 <!-- readme: contributors -end -->
