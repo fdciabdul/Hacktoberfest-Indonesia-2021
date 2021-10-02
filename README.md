@@ -252,7 +252,7 @@ Mulailah berkontribusi di berbagai repository di github
         <a href="https://github.com/adityamputra27">
             <img src="https://avatars.githubusercontent.com/u/68887223?v=4" width="100;" alt="adityamputra27"/>
             <br />
-            <sub><b>adityamputra27</b></sub>
+            <sub><b>Adityamputra27</b></sub>
         </a>
     </td>
     <td align="center">
