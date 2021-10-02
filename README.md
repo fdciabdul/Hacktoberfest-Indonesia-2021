@@ -195,7 +195,14 @@ Mulailah berkontribusi di berbagai repository di github
         <a href="https://github.com/alikanz">
             <img src="https://avatars.githubusercontent.com/u/90445044?v=4" width="100;" alt="alikanz"/>
             <br />
-            <sub><b>alikanz</b></sub>
+            <sub><b>Alikanz</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/bimbims125">
+            <img src="https://avatars.githubusercontent.com/u/65021963?v=4" width="100;" alt="bimbims125"/>
+            <br />
+            <sub><b>Pramdhanni</b></sub>
         </a>
     </td>
     <td align="center">
@@ -211,15 +218,15 @@ Mulailah berkontribusi di berbagai repository di github
             <br />
             <sub><b>Dickyrex19</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/doniambarita">
             <img src="https://avatars.githubusercontent.com/u/69050120?v=4" width="100;" alt="doniambarita"/>
             <br />
             <sub><b>DoniGanteng</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/farhandanu12">
             <img src="https://avatars.githubusercontent.com/u/72136325?v=4" width="100;" alt="farhandanu12"/>
@@ -252,14 +259,7 @@ Mulailah berkontribusi di berbagai repository di github
         <a href="https://github.com/nanzcakep">
             <img src="https://avatars.githubusercontent.com/u/43292701?v=4" width="100;" alt="nanzcakep"/>
             <br />
-            <sub><b>nanzcakep</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/pforpajri">
-            <img src="https://avatars.githubusercontent.com/u/57586918?v=4" width="100;" alt="pforpajri"/>
-            <br />
-            <sub><b>Pajri Zahrawaani Ahmad</b></sub>
+            <sub><b>Nanzcakep</b></sub>
         </a>
     </td></tr>
 </table>
