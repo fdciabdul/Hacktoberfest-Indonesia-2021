@@ -178,6 +178,13 @@ Mulailah berkontribusi di berbagai repository di github
     </td></tr>
 <tr>
     <td align="center">
+        <a href="https://github.com/sansekai">
+            <img src="https://avatars.githubusercontent.com/u/34540627?v=4" width="100;" alt="sansekai"/>
+            <br />
+            <sub><b>M Yusril</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/Marcelinoderry">
             <img src="https://avatars.githubusercontent.com/u/30742802?v=4" width="100;" alt="Marcelinoderry"/>
             <br />
@@ -211,15 +218,15 @@ Mulailah berkontribusi di berbagai repository di github
             <br />
             <sub><b>SeptiyanNugroho</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/ShzRGB">
             <img src="https://avatars.githubusercontent.com/u/84216417?v=4" width="100;" alt="ShzRGB"/>
             <br />
             <sub><b>ShzRGB</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/adityamputra27">
             <img src="https://avatars.githubusercontent.com/u/68887223?v=4" width="100;" alt="adityamputra27"/>
@@ -253,13 +260,6 @@ Mulailah berkontribusi di berbagai repository di github
             <img src="https://avatars.githubusercontent.com/u/27257736?v=4" width="100;" alt="dickyrex19"/>
             <br />
             <sub><b>Dickyrex19</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/doniambarita">
-            <img src="https://avatars.githubusercontent.com/u/69050120?v=4" width="100;" alt="doniambarita"/>
-            <br />
-            <sub><b>DoniGanteng</b></sub>
         </a>
     </td></tr>
 </table>
