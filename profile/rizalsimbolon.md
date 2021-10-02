@@ -1,7 +1,7 @@
 # Nama
- Muhamad Nanda Nugraha
+ Rizal Ronelius Simbolon
 
- <img src="https://https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4gFCLatZYABTztHAL8T-n711FPr3DWzus6Q&usqp=CAU" width="200" height="200" align="center"/>
+ <img src="https://avatars.githubusercontent.com/u/31589259?v=4" width="200" height="200" align="center"/>
 
  ### Provinsi & Kota
 
@@ -29,4 +29,4 @@ Sma
 
  ### Profile Link
 
- [Nama](https://github.com/lo9ic)
+ [Rizal Simbolon](https://github.com/lo9ic)
