@@ -178,6 +178,13 @@ Mulailah berkontribusi di berbagai repository di github
     </td></tr>
 <tr>
     <td align="center">
+        <a href="https://github.com/Faiznurullah">
+            <img src="https://avatars.githubusercontent.com/u/59213454?v=4" width="100;" alt="Faiznurullah"/>
+            <br />
+            <sub><b>Grakody</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/Kronzii88">
             <img src="https://avatars.githubusercontent.com/u/53630204?v=4" width="100;" alt="Kronzii88"/>
             <br />
@@ -211,15 +218,15 @@ Mulailah berkontribusi di berbagai repository di github
             <br />
             <sub><b>Pramdhanni</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Rayhan212">
             <img src="https://avatars.githubusercontent.com/u/68719170?v=4" width="100;" alt="Rayhan212"/>
             <br />
             <sub><b>Rayhan212</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/saamodra">
             <img src="https://avatars.githubusercontent.com/u/38998978?v=4" width="100;" alt="saamodra"/>
@@ -253,13 +260,6 @@ Mulailah berkontribusi di berbagai repository di github
             <img src="https://avatars.githubusercontent.com/u/91707718?v=4" width="100;" alt="Gitcomeon8"/>
             <br />
             <sub><b>Agung Xp</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/alikanz">
-            <img src="https://avatars.githubusercontent.com/u/90445044?v=4" width="100;" alt="alikanz"/>
-            <br />
-            <sub><b>Alikanz</b></sub>
         </a>
     </td></tr>
 </table>
