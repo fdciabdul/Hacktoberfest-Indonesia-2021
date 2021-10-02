@@ -207,20 +207,27 @@ Mulailah berkontribusi di berbagai repository di github
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/harsh863">
+            <img src="https://avatars.githubusercontent.com/u/53868138?v=4" width="100;" alt="harsh863"/>
+            <br />
+            <sub><b>Harsh Mittal</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/Kronzii88">
             <img src="https://avatars.githubusercontent.com/u/53630204?v=4" width="100;" alt="Kronzii88"/>
             <br />
             <sub><b>Kronzii88</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Lukman350">
             <img src="https://avatars.githubusercontent.com/u/61648308?v=4" width="100;" alt="Lukman350"/>
             <br />
             <sub><b>Lukman</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/sansekai">
             <img src="https://avatars.githubusercontent.com/u/34540627?v=4" width="100;" alt="sansekai"/>
@@ -254,13 +261,6 @@ Mulailah berkontribusi di berbagai repository di github
             <img src="https://avatars.githubusercontent.com/u/22952560?v=4" width="100;" alt="nenofetch"/>
             <br />
             <sub><b>Neno Arisma</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/bimbims125">
-            <img src="https://avatars.githubusercontent.com/u/65021963?v=4" width="100;" alt="bimbims125"/>
-            <br />
-            <sub><b>Pramdhanni</b></sub>
         </a>
     </td></tr>
 </table>
