@@ -27,7 +27,7 @@ Teknik Informatika [Universitas Yudharta Pasuruan]
 
 ### Project
 
-- isallkun.my.id 
+- https://isallkun.my.id 
 
 ### Profile Link
 
