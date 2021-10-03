@@ -1,7 +1,7 @@
 # Nama
 Rikky Arisendi
 
-<img src="https://rikkyarisendi.github.io/home/profile_hu0bdd3f9c6dedb6ac93f2dc4f836f6243_70096_320x0_resize_q75_box.jpg" width="200" height="200" align="center"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq7T9zvL7NjAm1Lv8-jYxKlzUs3LjhFSN1QQ&usqp=CAU" width="200" height="200" align="center"/>
 
 ### Provinsi & Kota
 
