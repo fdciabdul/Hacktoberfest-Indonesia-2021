@@ -81,7 +81,7 @@ Mulailah berkontribusi di berbagai repository di github
         <a href="https://github.com/activohuman">
             <img src="https://avatars.githubusercontent.com/u/72515325?v=4" width="100;" alt="activohuman"/>
             <br />
-            <sub><b>activohuman</b></sub>
+            <sub><b>Activohuman</b></sub>
         </a>
     </td>
     <td align="center">
