@@ -2,7 +2,7 @@
 	<div>
 		<h4 v-show="show">Welcome to Hacktober Fest</h4>
 		<button @click="clickMe">Show Me</button>
-		<button @click="clickMe">Hide Me</button>
+		<button @click="hideMe">Hide Me</button>
 	</div>
 </template>
 
@@ -15,6 +15,9 @@
 		methods: {
 			clickMe() {
 				this.show = true
+			},
+			hideMe() {
+				this.show = false
 			}
 		}
 	}
