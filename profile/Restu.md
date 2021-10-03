@@ -21,7 +21,8 @@ Universitas Indraprasta PGRI
 
 ### Bahasa Pemograman
 
-- Node
+- JavaScript
+- TypeScript
 - Go
 
 ### Project
