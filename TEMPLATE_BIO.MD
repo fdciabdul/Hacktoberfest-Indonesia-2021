@@ -1,7 +1,7 @@
 # Nama
 Vaibhav Sharma
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwall.alphacoders.com%2Ftag%2Fgiyuu-tomioka-wallpapers&psig=AOvVaw0Wno-DJu1eO6A6XsLhDwo0&ust=1633447543098000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjp-7WIsfMCFQAAAAAdAAAAABAD" width="200" height="200" align="center"/>
+<img src="https://avatars.githubusercontent.com/u/76773190?s=400&u=89f31384ff516ec6efd7edd687f5eb6f4cbb0447&v=4" width="200" height="200" align="center"/>
 
 ### Provisi & Kota
 
