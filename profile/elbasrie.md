@@ -23,7 +23,7 @@ Univ BSI
 
 ### Project
 
-Check Profile
+- [Toko Kue](https://github.com/elbasrie/tokokue)
 
 ### Profile Link
 
