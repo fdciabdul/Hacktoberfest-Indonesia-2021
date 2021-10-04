@@ -179,6 +179,13 @@ Mulailah berkontribusi di berbagai repository di github
     </td></tr>
 <tr>
     <td align="center">
+        <a href="https://github.com/Bintang73">
+            <img src="https://avatars.githubusercontent.com/u/42708989?v=4" width="100;" alt="Bintang73"/>
+            <br />
+            <sub><b>Bintang73</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/whytupan1010">
             <img src="https://avatars.githubusercontent.com/u/73270151?v=4" width="100;" alt="whytupan1010"/>
             <br />
@@ -212,15 +219,15 @@ Mulailah berkontribusi di berbagai repository di github
             <br />
             <sub><b>Dwiky Aprian Ashari</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/SantriInsyaf">
             <img src="https://avatars.githubusercontent.com/u/38537356?v=4" width="100;" alt="SantriInsyaf"/>
             <br />
             <sub><b>Faishal AR</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/faizalanwar">
             <img src="https://avatars.githubusercontent.com/u/52071488?v=4" width="100;" alt="faizalanwar"/>
@@ -254,13 +261,6 @@ Mulailah berkontribusi di berbagai repository di github
             <img src="https://avatars.githubusercontent.com/u/77146709?v=4" width="100;" alt="haikelz"/>
             <br />
             <sub><b>Haikel </b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/harsh863">
-            <img src="https://avatars.githubusercontent.com/u/53868138?v=4" width="100;" alt="harsh863"/>
-            <br />
-            <sub><b>Harsh Mittal</b></sub>
         </a>
     </td></tr>
 </table>
