@@ -173,13 +173,20 @@ Mulailah berkontribusi di berbagai repository di github
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/ayatullahnaufal">
+            <img src="https://avatars.githubusercontent.com/u/25188959?v=4" width="100;" alt="ayatullahnaufal"/>
+            <br />
+            <sub><b>Ayatullah Naufal</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
         <a href="https://github.com/baguswap">
             <img src="https://avatars.githubusercontent.com/u/73533249?v=4" width="100;" alt="baguswap"/>
             <br />
             <sub><b>Bagus Wahyu Ari Pratama</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Bintang73">
             <img src="https://avatars.githubusercontent.com/u/42708989?v=4" width="100;" alt="Bintang73"/>
@@ -214,15 +221,15 @@ Mulailah berkontribusi di berbagai repository di github
             <br />
             <sub><b>Denny Abraham Sinaga</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Dennypyp">
             <img src="https://avatars.githubusercontent.com/u/59425929?v=4" width="100;" alt="Dennypyp"/>
             <br />
             <sub><b>Denny Putra Yudha Pratama</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/aprian1337">
             <img src="https://avatars.githubusercontent.com/u/55075488?v=4" width="100;" alt="aprian1337"/>
@@ -256,13 +263,6 @@ Mulailah berkontribusi di berbagai repository di github
             <img src="https://avatars.githubusercontent.com/u/58353389?v=4" width="100;" alt="GathanAkhtar"/>
             <br />
             <sub><b>Gathan Akhtar</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Faiznurullah">
-            <img src="https://avatars.githubusercontent.com/u/59213454?v=4" width="100;" alt="Faiznurullah"/>
-            <br />
-            <sub><b>Grakody</b></sub>
         </a>
     </td></tr>
 </table>
