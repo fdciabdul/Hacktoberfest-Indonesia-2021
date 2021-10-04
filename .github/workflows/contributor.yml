@@ -1,5 +1,7 @@
 name: Contributors
 on:
+  schedule:
+    - cron: '* * * *'
   push:
     branches:
       - master
