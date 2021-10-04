@@ -188,6 +188,13 @@ Mulailah berkontribusi di berbagai repository di github
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/danindraihya">
+            <img src="https://avatars.githubusercontent.com/u/42881183?v=4" width="100;" alt="danindraihya"/>
+            <br />
+            <sub><b>Danindra Ihya' Maulalhaq</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/whytupan1010">
             <img src="https://avatars.githubusercontent.com/u/73270151?v=4" width="100;" alt="whytupan1010"/>
             <br />
@@ -214,15 +221,15 @@ Mulailah berkontribusi di berbagai repository di github
             <br />
             <sub><b>Denny Putra Yudha Pratama</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/aprian1337">
             <img src="https://avatars.githubusercontent.com/u/55075488?v=4" width="100;" alt="aprian1337"/>
             <br />
             <sub><b>Dwiky Aprian Ashari</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/SantriInsyaf">
             <img src="https://avatars.githubusercontent.com/u/38537356?v=4" width="100;" alt="SantriInsyaf"/>
@@ -256,13 +263,6 @@ Mulailah berkontribusi di berbagai repository di github
             <img src="https://avatars.githubusercontent.com/u/59213454?v=4" width="100;" alt="Faiznurullah"/>
             <br />
             <sub><b>Grakody</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/haikelz">
-            <img src="https://avatars.githubusercontent.com/u/77146709?v=4" width="100;" alt="haikelz"/>
-            <br />
-            <sub><b>Haikel </b></sub>
         </a>
     </td></tr>
 </table>
