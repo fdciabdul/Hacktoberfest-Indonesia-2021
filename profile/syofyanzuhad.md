@@ -1,5 +1,5 @@
 # Nama
-andri
+Syofyan Zuhad
 
 <img src="https://github.com/syofyanzuhad.png" width="200" height="200" align="center"/>
 
