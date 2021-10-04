@@ -14,7 +14,10 @@ Switch Case Condition
   */
 
   Switch($a){
-
+   case 4:
+      echo 'Variable a is 4';
+    break;
+    
     case 5:
       echo 'Variable a is 5';
     break;
