@@ -1,7 +1,7 @@
 # Nama
 Bintang Nur Pradana
 
-<img src=https://avatars.githubusercontent.com/u/42708989?s=400&u=929bb42af83bccd711d719a2799105b292b1d387&v=4 width="200" height="200" align="center"/>
+<img src="https://avatars.githubusercontent.com/u/42708989?s=400&u=929bb42af83bccd711d719a2799105b292b1d387&v=4" width="200" height="200" align="center"/>
 
 ### Provisi & Kota
 
