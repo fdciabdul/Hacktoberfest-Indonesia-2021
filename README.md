@@ -87,13 +87,6 @@ Mulailah berkontribusi di berbagai repository di github
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/dodyagung">
-            <img src="https://avatars.githubusercontent.com/u/3906712?v=4" width="100;" alt="dodyagung"/>
-            <br />
-            <sub><b>Dody Agung S</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/activohuman">
             <img src="https://avatars.githubusercontent.com/u/72515325?v=4" width="100;" alt="activohuman"/>
             <br />
@@ -120,20 +113,27 @@ Mulailah berkontribusi di berbagai repository di github
             <br />
             <sub><b>Ahmad Fathir</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/ayatullahnaufal">
             <img src="https://avatars.githubusercontent.com/u/25188959?v=4" width="100;" alt="ayatullahnaufal"/>
             <br />
             <sub><b>Ayatullah Naufal</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Jon3sjns">
             <img src="https://avatars.githubusercontent.com/u/45759837?v=4" width="100;" alt="Jon3sjns"/>
             <br />
             <sub><b>Billy</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/dodyagung">
+            <img src="https://avatars.githubusercontent.com/u/3906712?v=4" width="100;" alt="dodyagung"/>
+            <br />
+            <sub><b>Dody Agung S</b></sub>
         </a>
     </td>
     <td align="center">
