@@ -76,7 +76,7 @@ Mulailah berkontribusi di berbagai repository di github
         <a href="https://github.com/aisyalfawwaz">
             <img src="https://avatars.githubusercontent.com/u/59833758?v=4" width="100;" alt="aisyalfawwaz"/>
             <br />
-            <sub><b>aisyalfawwaz</b></sub>
+            <sub><b>Aisyalfawwaz</b></sub>
         </a>
     </td>
     <td align="center">
@@ -90,7 +90,7 @@ Mulailah berkontribusi di berbagai repository di github
         <a href="https://github.com/activohuman">
             <img src="https://avatars.githubusercontent.com/u/72515325?v=4" width="100;" alt="activohuman"/>
             <br />
-            <sub><b>activohuman</b></sub>
+            <sub><b>Activohuman</b></sub>
         </a>
     </td>
     <td align="center">
@@ -182,7 +182,7 @@ Mulailah berkontribusi di berbagai repository di github
         <a href="https://github.com/agungleksono">
             <img src="https://avatars.githubusercontent.com/u/66459959?v=4" width="100;" alt="agungleksono"/>
             <br />
-            <sub><b>agungleksono</b></sub>
+            <sub><b>Agungleksono</b></sub>
         </a>
     </td>
     <td align="center">
@@ -197,7 +197,7 @@ Mulailah berkontribusi di berbagai repository di github
         <a href="https://github.com/farhandanu12">
             <img src="https://avatars.githubusercontent.com/u/72136325?v=4" width="100;" alt="farhandanu12"/>
             <br />
-            <sub><b>farhandanu12</b></sub>
+            <sub><b>Farhandanu12</b></sub>
         </a>
     </td>
     <td align="center">
@@ -211,7 +211,7 @@ Mulailah berkontribusi di berbagai repository di github
         <a href="https://github.com/ricky-158">
             <img src="https://avatars.githubusercontent.com/u/77603004?v=4" width="100;" alt="ricky-158"/>
             <br />
-            <sub><b>ricky-158</b></sub>
+            <sub><b>Ricky-158</b></sub>
         </a>
     </td>
     <td align="center">
