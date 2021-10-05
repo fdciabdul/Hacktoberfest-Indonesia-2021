@@ -34,4 +34,4 @@ Pondok IT
 
 ### Profile Link
 
-[Nama](https://github.com/uchiman)
+[Uchiman](https://github.com/uchiman)
