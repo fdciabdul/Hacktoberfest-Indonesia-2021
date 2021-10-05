@@ -92,8 +92,7 @@ Mulailah berkontribusi di berbagai repository di github
             <br />
             <sub><b>Activohuman</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Dimas-Saputra-Me">
             <img src="https://avatars.githubusercontent.com/u/62497214?v=4" width="100;" alt="Dimas-Saputra-Me"/>
@@ -121,7 +120,8 @@ Mulailah berkontribusi di berbagai repository di github
             <br />
             <sub><b>Ayatullah Naufal</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Jon3sjns">
             <img src="https://avatars.githubusercontent.com/u/45759837?v=4" width="100;" alt="Jon3sjns"/>
@@ -135,8 +135,7 @@ Mulailah berkontribusi di berbagai repository di github
             <br />
             <sub><b>Firmansyah Wahyu</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/icatpojan">
             <img src="https://avatars.githubusercontent.com/u/70455184?v=4" width="100;" alt="icatpojan"/>
@@ -178,8 +177,7 @@ Mulailah berkontribusi di berbagai repository di github
             <br />
             <sub><b>Agungleksono</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/linkusers">
             <img src="https://avatars.githubusercontent.com/u/65387793?v=4" width="100;" alt="linkusers"/>
@@ -193,7 +191,8 @@ Mulailah berkontribusi di berbagai repository di github
             <br />
             <sub><b>Farhandanu12</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/masgalih320">
             <img src="https://avatars.githubusercontent.com/u/91511974?v=4" width="100;" alt="masgalih320"/>
@@ -221,8 +220,7 @@ Mulailah berkontribusi di berbagai repository di github
             <br />
             <sub><b>Aditya Rahman</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/agungd3v">
             <img src="https://avatars.githubusercontent.com/u/63272845?v=4" width="100;" alt="agungd3v"/>
