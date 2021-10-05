@@ -7,5 +7,8 @@ jobs:
         steps:
             - name: Contribute List
               uses: akhilmhdh/contributors-readme-action@v2.2
+              with:
+                columns_per_row: 10
               env:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
