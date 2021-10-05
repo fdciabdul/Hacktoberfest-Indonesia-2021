@@ -8,7 +8,7 @@ Adi Andoyo
 Kalimantan Barat , Pontianak
 
 ### Sekolah / Akademik
-
+STMIK Widya Dharma Pontianank
 
 ### Hobi
 
