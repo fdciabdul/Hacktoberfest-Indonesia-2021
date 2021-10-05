@@ -176,7 +176,7 @@ Mulailah berkontribusi di berbagai repository di github
         <a href="https://github.com/agungleksono">
             <img src="https://avatars.githubusercontent.com/u/66459959?v=4" width="100;" alt="agungleksono"/>
             <br />
-            <sub><b>agungleksono</b></sub>
+            <sub><b>Agungleksono</b></sub>
         </a>
     </td></tr>
 <tr>
