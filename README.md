@@ -130,6 +130,13 @@ Mulailah berkontribusi di berbagai repository di github
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/dodyagung">
+            <img src="https://avatars.githubusercontent.com/u/3906712?v=4" width="100;" alt="dodyagung"/>
+            <br />
+            <sub><b>Dody Agung S</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/bywahjoe">
             <img src="https://avatars.githubusercontent.com/u/67533574?v=4" width="100;" alt="bywahjoe"/>
             <br />
@@ -184,15 +191,15 @@ Mulailah berkontribusi di berbagai repository di github
             <br />
             <sub><b>Ahmad Rafli</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/farhandanu12">
             <img src="https://avatars.githubusercontent.com/u/72136325?v=4" width="100;" alt="farhandanu12"/>
             <br />
             <sub><b>Farhandanu12</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/masgalih320">
             <img src="https://avatars.githubusercontent.com/u/91511974?v=4" width="100;" alt="masgalih320"/>
@@ -254,13 +261,6 @@ Mulailah berkontribusi di berbagai repository di github
             <img src="https://avatars.githubusercontent.com/u/27753675?v=4" width="100;" alt="antarezaghifary"/>
             <br />
             <sub><b>Antareza Ghifary AM</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/arip1997">
-            <img src="https://avatars.githubusercontent.com/u/49529769?v=4" width="100;" alt="arip1997"/>
-            <br />
-            <sub><b>Arif Rahmat Santoso</b></sub>
         </a>
     </td></tr>
 </table>
