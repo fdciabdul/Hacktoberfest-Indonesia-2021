@@ -1,5 +1,5 @@
 # Nama
-andri
+Gagas Surya Laksana
 
 <img src="https://avatars.githubusercontent.com/u/55011173" width="200" height="200" align="center"/>
 
