@@ -1,24 +1,29 @@
 # Nama
 andri
 
-<img src="" width="200" height="200" align="center"/>
+<img src="https://avatars.githubusercontent.com/u/55011173" width="200" height="200" align="center"/>
 
 ### Provisi & Kota
 
-Provinsi , Kota
+Jawa Timur , Tulungagung
 
 ### Sekolah / Akademik
-
+SMK Telkom Malang
 
 ### Hobi
 
 - Begadang
+- Ngoding
+- Travelling
 
 
 ### Bahasa Pemograman 
 
 - Javascript
-- HTML
+- Dart
+- PHP
+- Python
+- Swift
 
 ### Project
 
@@ -26,4 +31,4 @@ Provinsi , Kota
 
 ### Profile Link
 
-[Nama](https://github.com/usernamenya)
+[Gagassurya19](https://github.com/gagassurya19)
