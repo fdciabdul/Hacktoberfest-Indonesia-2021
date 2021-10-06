@@ -26,4 +26,4 @@ Sulawesi Barat , Mamuju
 
 ### Profile Link
 
-[Nama](https://github.com/Ftwrr)
+[Fatur](https://github.com/Ftwrr)
