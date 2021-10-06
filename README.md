@@ -49,6 +49,221 @@ Mulailah berkontribusi di berbagai repository di github
 ## Kontributor List
 
 <!-- readme: contributors -start -->
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/fdciabdul">
+            <img src="https://avatars.githubusercontent.com/u/31664438?v=4" width="100;" alt="fdciabdul"/>
+            <br />
+            <sub><b>Abdul Muttaqin</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/rizkytegar">
+            <img src="https://avatars.githubusercontent.com/u/55475891?v=4" width="100;" alt="rizkytegar"/>
+            <br />
+            <sub><b>>_Rizky.dev</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/NoXLaw">
+            <img src="https://avatars.githubusercontent.com/u/35652825?v=4" width="100;" alt="NoXLaw"/>
+            <br />
+            <sub><b>Azka Ainul Maarij</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/dodyagung">
+            <img src="https://avatars.githubusercontent.com/u/3906712?v=4" width="100;" alt="dodyagung"/>
+            <br />
+            <sub><b>Dody Agung S</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/haseeb-xd">
+            <img src="https://avatars.githubusercontent.com/u/47222685?v=4" width="100;" alt="haseeb-xd"/>
+            <br />
+            <sub><b>Haseeb Ahmed Ansari</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/aisyalfawwaz">
+            <img src="https://avatars.githubusercontent.com/u/59833758?v=4" width="100;" alt="aisyalfawwaz"/>
+            <br />
+            <sub><b>aisyalfawwaz</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/3pls0de">
+            <img src="https://avatars.githubusercontent.com/u/43237480?v=4" width="100;" alt="3pls0de"/>
+            <br />
+            <sub><b>3pls0de</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/SeptiyanNugroho">
+            <img src="https://avatars.githubusercontent.com/u/64180814?v=4" width="100;" alt="SeptiyanNugroho"/>
+            <br />
+            <sub><b>SeptiyanNugroho</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/activohuman">
+            <img src="https://avatars.githubusercontent.com/u/72515325?v=4" width="100;" alt="activohuman"/>
+            <br />
+            <sub><b>activohuman</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Dimas-Saputra-Me">
+            <img src="https://avatars.githubusercontent.com/u/62497214?v=4" width="100;" alt="Dimas-Saputra-Me"/>
+            <br />
+            <sub><b>Dimas Saputra</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
+        <a href="https://github.com/Uchiman">
+            <img src="https://avatars.githubusercontent.com/u/69241679?v=4" width="100;" alt="Uchiman"/>
+            <br />
+            <sub><b>Usman Khabilah</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Zzfathir">
+            <img src="https://avatars.githubusercontent.com/u/71886579?v=4" width="100;" alt="Zzfathir"/>
+            <br />
+            <sub><b>Ahmad Fathir</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/ayatullahnaufal">
+            <img src="https://avatars.githubusercontent.com/u/25188959?v=4" width="100;" alt="ayatullahnaufal"/>
+            <br />
+            <sub><b>Ayatullah Naufal</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Jon3sjns">
+            <img src="https://avatars.githubusercontent.com/u/45759837?v=4" width="100;" alt="Jon3sjns"/>
+            <br />
+            <sub><b>Billy</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/bywahjoe">
+            <img src="https://avatars.githubusercontent.com/u/67533574?v=4" width="100;" alt="bywahjoe"/>
+            <br />
+            <sub><b>Firmansyah Wahyu</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Ftwrr">
+            <img src="https://avatars.githubusercontent.com/u/76021496?v=4" width="100;" alt="Ftwrr"/>
+            <br />
+            <sub><b>Ftwrr</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/icatpojan">
+            <img src="https://avatars.githubusercontent.com/u/70455184?v=4" width="100;" alt="icatpojan"/>
+            <br />
+            <sub><b>ICATPOJAN</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/FikriElGhaz">
+            <img src="https://avatars.githubusercontent.com/u/49526898?v=4" width="100;" alt="FikriElGhaz"/>
+            <br />
+            <sub><b>M. Fikri</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/PBWim">
+            <img src="https://avatars.githubusercontent.com/u/8191412?v=4" width="100;" alt="PBWim"/>
+            <br />
+            <sub><b>Pabodha Wimalasuriya</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/rikkyarisendi">
+            <img src="https://avatars.githubusercontent.com/u/76026854?v=4" width="100;" alt="rikkyarisendi"/>
+            <br />
+            <sub><b>Rikky Arisendi</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
+        <a href="https://github.com/syofyanzuhad">
+            <img src="https://avatars.githubusercontent.com/u/52684582?v=4" width="100;" alt="syofyanzuhad"/>
+            <br />
+            <sub><b>Syofyan Zuhad</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/agungleksono">
+            <img src="https://avatars.githubusercontent.com/u/66459959?v=4" width="100;" alt="agungleksono"/>
+            <br />
+            <sub><b>agungleksono</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/linkusers">
+            <img src="https://avatars.githubusercontent.com/u/65387793?v=4" width="100;" alt="linkusers"/>
+            <br />
+            <sub><b>Ahmad Rafli</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/farhandanu12">
+            <img src="https://avatars.githubusercontent.com/u/72136325?v=4" width="100;" alt="farhandanu12"/>
+            <br />
+            <sub><b>farhandanu12</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/masgalih320">
+            <img src="https://avatars.githubusercontent.com/u/91511974?v=4" width="100;" alt="masgalih320"/>
+            <br />
+            <sub><b>Its Galih</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/ricky-158">
+            <img src="https://avatars.githubusercontent.com/u/77603004?v=4" width="100;" alt="ricky-158"/>
+            <br />
+            <sub><b>ricky-158</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/4amparaboy">
+            <img src="https://avatars.githubusercontent.com/u/76533278?v=4" width="100;" alt="4amparaboy"/>
+            <br />
+            <sub><b>4amparaboy</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/kudaliar032">
+            <img src="https://avatars.githubusercontent.com/u/23249302?v=4" width="100;" alt="kudaliar032"/>
+            <br />
+            <sub><b>Aditya Rahman</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/agungd3v">
+            <img src="https://avatars.githubusercontent.com/u/63272845?v=4" width="100;" alt="agungd3v"/>
+            <br />
+            <sub><b>Agung Ardiyanto</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/VyscoZyza">
+            <img src="https://avatars.githubusercontent.com/u/50919691?v=4" width="100;" alt="VyscoZyza"/>
+            <br />
+            <sub><b>Alvin Zulham</b></sub>
+        </a>
+    </td></tr>
+</table>
 <!-- readme: contributors -end -->
 Kalian bisa melihat siapa saja yang berkontribusi dalam repository ini
 
