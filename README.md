@@ -136,6 +136,15 @@ NB: gunakan `git --help` untuk melihat perintah-perintah git lainnya.
 
 ---
 
+## Embed
+
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=fdciabdul&repo=Hacktoberfest-Indonesia-2021&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+
+Copy dibawah kode kedalam file berformat markdown
+
+```
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=fdciabdul&repo=Hacktoberfest-Indonesia-2021&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+```
 ## Special Thanks
 
 - [belajargit](https://github.com/endymuhardin/belajarGit) - Repository Untuk Belajar Git
