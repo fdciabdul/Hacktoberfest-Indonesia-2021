@@ -141,7 +141,7 @@ NB: gunakan `git --help` untuk melihat perintah-perintah git lainnya.
  ![https://github.com/fdciabdul/Hacktoberfest-Indonesia-2021](https://github-readme-stats.vercel.app/api/pin?username=fdciabdul&repo=Hacktoberfest-Indonesia-2021&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&show_owner=true)
   ![https://github.com/fdciabdul/Hacktoberfest-Indonesia-2021](https://github-readme-stats.vercel.app/api/pin/?username=fdciabdul&repo=Hacktoberfest-Indonesia-2021&show_owner=true)
 
-Copy dibawah kode kedalam file berformat markdown
+Copy kode dibawah ini kedalam file berformat markdown. contoh [file markdown](https://github.com/fdciabdul/Hacktoberfest-Indonesia-2021/blob/main/README.md)
 
 Dark 
 
