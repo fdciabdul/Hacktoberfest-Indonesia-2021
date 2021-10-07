@@ -18,7 +18,7 @@ Acara ini bebas untuk siapa saja baik untuk pemula hingga professional sekalipun
   <a href="https://hacktoberfest.digitalocean.com/register">
   <img src="https://user-images.githubusercontent.com/31664438/135388900-c636109d-b597-492e-9430-04f22e4e98e6.png">
   </a>
-  
+
 - klik signup with github
 
 ![image](https://user-images.githubusercontent.com/31664438/135388934-a11297cc-cdf4-42ed-8546-dbd66294f34d.png)
@@ -953,7 +953,7 @@ Mulailah berkontribusi di berbagai repository di github
             <sub><b>Shinz-404</b></sub>
         </a>
     </td></tr>
-<>
+<tr>
     <td align="center">
         <a href="https://github.com/statusyaza">
             <img src="https://avatars.githubusercontent.com/u/89833996?v=4" width="100;" alt="statusyaza"/>
@@ -1087,12 +1087,12 @@ NB: gunakan `git --help` untuk melihat perintah-perintah git lainnya.
 
 ## Embed
 
- ![https://github.com/fdciabdul/Hacktoberfest-Indonesia-2021](https://github-readme-stats.vercel.app/api/pin?username=fdciabdul&repo=Hacktoberfest-Indonesia-2021&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&show_owner=true)
-  ![https://github.com/fdciabdul/Hacktoberfest-Indonesia-2021](https://github-readme-stats.vercel.app/api/pin/?username=fdciabdul&repo=Hacktoberfest-Indonesia-2021&show_owner=true)
+![https://github.com/fdciabdul/Hacktoberfest-Indonesia-2021](https://github-readme-stats.vercel.app/api/pin?username=fdciabdul&repo=Hacktoberfest-Indonesia-2021&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&show_owner=true)
+![https://github.com/fdciabdul/Hacktoberfest-Indonesia-2021](https://github-readme-stats.vercel.app/api/pin/?username=fdciabdul&repo=Hacktoberfest-Indonesia-2021&show_owner=true)
 
 Copy kode dibawah ini kedalam file berformat markdown. contoh [file markdown](https://github.com/fdciabdul/Hacktoberfest-Indonesia-2021/blob/main/README.md)
 
-Dark 
+Dark
 
 ```
  ![https://github.com/fdciabdul/Hacktoberfest-Indonesia-2021](https://github-readme-stats.vercel.app/api/pin?username=fdciabdul&repo=Hacktoberfest-Indonesia-2021&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&show_owner=true)
@@ -1103,6 +1103,7 @@ White
 ```
   ![https://github.com/fdciabdul/Hacktoberfest-Indonesia-2021](https://github-readme-stats.vercel.app/api/pin/?username=fdciabdul&repo=Hacktoberfest-Indonesia-2021&show_owner=true)
 ```
+
 ## Special Thanks
 
 - [belajargit](https://github.com/endymuhardin/belajarGit) - Repository Untuk Belajar Git
