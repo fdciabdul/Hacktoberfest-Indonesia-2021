@@ -18,7 +18,6 @@ Acara ini bebas untuk siapa saja baik untuk pemula hingga professional sekalipun
   <a href="https://hacktoberfest.digitalocean.com/register">
   <img src="https://user-images.githubusercontent.com/31664438/135388900-c636109d-b597-492e-9430-04f22e4e98e6.png">
   </a>
-
 - klik signup with github
 
 ![image](https://user-images.githubusercontent.com/31664438/135388934-a11297cc-cdf4-42ed-8546-dbd66294f34d.png)
@@ -987,13 +986,6 @@ Mulailah berkontribusi di berbagai repository di github
             <img src="https://avatars.githubusercontent.com/u/72188293?v=4" width="100;" alt="vitriawidiasari"/>
             <br />
             <sub><b>Vitriawidiasarii</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/hafidzamr">
-            <img src="https://avatars.githubusercontent.com/u/49369600?v=4" width="100;" alt="hafidzamr"/>
-            <br />
-            <sub><b>hafidzamr</b></sub>
         </a>
     </td></tr>
 </table>
