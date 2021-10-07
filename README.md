@@ -241,7 +241,7 @@ Mulailah berkontribusi di berbagai repository di github
         <a href="https://github.com/rivaldo15">
             <img src="https://avatars.githubusercontent.com/u/91927658?v=4" width="100;" alt="rivaldo15"/>
             <br />
-            <sub><b>rivaldo15</b></sub>
+            <sub><b>Rivaldo15</b></sub>
         </a>
     </td>
     <td align="center">
