@@ -953,7 +953,7 @@ Mulailah berkontribusi di berbagai repository di github
             <sub><b>Shinz-404</b></sub>
         </a>
     </td></tr>
-<tr>
+<>
     <td align="center">
         <a href="https://github.com/statusyaza">
             <img src="https://avatars.githubusercontent.com/u/89833996?v=4" width="100;" alt="statusyaza"/>
@@ -987,6 +987,13 @@ Mulailah berkontribusi di berbagai repository di github
             <img src="https://avatars.githubusercontent.com/u/72188293?v=4" width="100;" alt="vitriawidiasari"/>
             <br />
             <sub><b>Vitriawidiasarii</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/hafidzamr">
+            <img src="https://avatars.githubusercontent.com/u/49369600?v=4" width="100;" alt="hafidzamr"/>
+            <br />
+            <sub><b>hafidzamr</b></sub>
         </a>
     </td></tr>
 </table>
