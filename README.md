@@ -904,20 +904,13 @@ Mulailah berkontribusi di berbagai repository di github
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/ialexanderbrito">
-            <img src="https://avatars.githubusercontent.com/u/36086408?v=4" width="100;" alt="ialexanderbrito"/>
-            <br />
-            <sub><b>Alexander</b></sub>
-        </a>
-    </td></tr>
-<tr>
-    <td align="center">
         <a href="https://github.com/ikhsan15">
             <img src="https://avatars.githubusercontent.com/u/25313474?v=4" width="100;" alt="ikhsan15"/>
             <br />
             <sub><b>Ikhsan15</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Ikhari">
             <img src="https://avatars.githubusercontent.com/u/72252909?v=4" width="100;" alt="Ikhari"/>
@@ -952,15 +945,15 @@ Mulailah berkontribusi di berbagai repository di github
             <br />
             <sub><b>Nanzcakep</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/novalsungkar">
             <img src="https://avatars.githubusercontent.com/u/85091731?v=4" width="100;" alt="novalsungkar"/>
             <br />
             <sub><b>Novalsungkar</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/pforpajri">
             <img src="https://avatars.githubusercontent.com/u/57586918?v=4" width="100;" alt="pforpajri"/>
@@ -995,15 +988,15 @@ Mulailah berkontribusi di berbagai repository di github
             <br />
             <sub><b>Savuckovi</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/shafhan">
             <img src="https://avatars.githubusercontent.com/u/68223301?v=4" width="100;" alt="shafhan"/>
             <br />
             <sub><b>Shafhan</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/shinz-404">
             <img src="https://avatars.githubusercontent.com/u/83520747?v=4" width="100;" alt="shinz-404"/>
@@ -1038,8 +1031,7 @@ Mulailah berkontribusi di berbagai repository di github
             <br />
             <sub><b>Vinz15</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/vitriawidiasari">
             <img src="https://avatars.githubusercontent.com/u/72188293?v=4" width="100;" alt="vitriawidiasari"/>
