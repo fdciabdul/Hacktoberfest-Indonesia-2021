@@ -5,7 +5,7 @@ Teddi Rahman
 
 ### Provisi & Kota
 
-Jawa Tengah, Purwokerto
+Bali, Tabanan
 
 ### Sekolah / Akademik
 [Pondok Programmer](https://pondokprogrammer.com)
