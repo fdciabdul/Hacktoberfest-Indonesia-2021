@@ -18,6 +18,7 @@ Acara ini bebas untuk siapa saja baik untuk pemula hingga professional sekalipun
   <a href="https://hacktoberfest.digitalocean.com/register">
   <img src="https://user-images.githubusercontent.com/31664438/135388900-c636109d-b597-492e-9430-04f22e4e98e6.png">
   </a>
+
 - klik signup with github
 
 ![image](https://user-images.githubusercontent.com/31664438/135388934-a11297cc-cdf4-42ed-8546-dbd66294f34d.png)
@@ -1084,7 +1085,6 @@ NB: gunakan `git --help` untuk melihat perintah-perintah git lainnya.
 
 Copy kode dibawah ini kedalam file berformat markdown. contoh [file markdown](https://github.com/fdciabdul/Hacktoberfest-Indonesia-2021/blob/main/README.md)
 
-Dark
 
 ```
  ![https://github.com/fdciabdul/Hacktoberfest-Indonesia-2021](https://github-readme-stats.vercel.app/api/pin?username=fdciabdul&repo=Hacktoberfest-Indonesia-2021&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&show_owner=true)
