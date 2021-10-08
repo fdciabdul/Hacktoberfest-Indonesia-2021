@@ -1146,15 +1146,7 @@ Mulailah berkontribusi di berbagai repository di github
             <br />
             <sub><b>Vitriawidiasarii</b></sub>
         </a>
-    </td>
-   <td align="center">
-        <a href="https://github.com/deepyaman-das">
-            <img src="https://avatars.githubusercontent.com/u/54535773?v=4" width="100;" alt="deepyaman-das"/>
-            <br />
-            <sub><b>Deepyaman Das</b></sub>
-        </a>
-    </td>
-  </tr>
+    </td></tr>
 </table>
 <!-- readme: contributors -end -->
 Kalian bisa melihat siapa saja yang berkontribusi dalam repository ini
