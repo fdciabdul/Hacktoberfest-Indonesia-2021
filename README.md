@@ -50,7 +50,7 @@ Mulailah berkontribusi di berbagai repository di github
 
 <!-- readme: contributors -start -->
 <table>
-<tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/fdciabdul">
             <img src="https://avatars.githubusercontent.com/u/31664438?v=4" width="100;" alt="fdciabdul"/>
