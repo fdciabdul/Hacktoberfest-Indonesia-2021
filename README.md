@@ -52,6 +52,13 @@ Mulailah berkontribusi di berbagai repository di github
 <table>
 <tr>
     <td align="center">
+        <a href="https://github.com/andre12001">
+            <img src="https://avatars.githubusercontent.com/u/32930152?s=400&u=6cd5368810b2cd879d18ac76471d01e618f34a99&v=4" width="100;" alt="Andre12001"/>
+            <br />
+            <sub><b>Andre Tri Ramadana</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/fdciabdul">
             <img src="https://avatars.githubusercontent.com/u/31664438?v=4" width="100;" alt="fdciabdul"/>
             <br />
