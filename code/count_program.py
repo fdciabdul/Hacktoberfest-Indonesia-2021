@@ -4,7 +4,7 @@ import numpy as np
 # fungsi untuk mengurutkan bilangan
 def sort(num):
 	num.sort()
-	print("Urutkan angka: ", end = "")
+	print("Urutkan Angka: ", end = "")
 	for i in num:
 		if i < len(num):
 			print(i, end=", ")
