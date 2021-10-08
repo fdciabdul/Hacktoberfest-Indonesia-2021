@@ -116,6 +116,13 @@ Mulailah berkontribusi di berbagai repository di github
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/hasobi">
+            <img src="https://avatars.githubusercontent.com/u/13960580?v=4" width="100;" alt="hasobi"/>
+            <br />
+            <sub><b>Hasobi</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/iamfauzi16">
             <img src="https://avatars.githubusercontent.com/u/53123172?v=4" width="100;" alt="iamfauzi16"/>
             <br />
@@ -128,15 +135,15 @@ Mulailah berkontribusi di berbagai repository di github
             <br />
             <sub><b>SeptiyanNugroho</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/activohuman">
             <img src="https://avatars.githubusercontent.com/u/72515325?v=4" width="100;" alt="activohuman"/>
             <br />
             <sub><b>Activohuman</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Dimas-Saputra-Me">
             <img src="https://avatars.githubusercontent.com/u/62497214?v=4" width="100;" alt="Dimas-Saputra-Me"/>
@@ -171,15 +178,15 @@ Mulailah berkontribusi di berbagai repository di github
             <br />
             <sub><b>Billy</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/FadellMuhammad">
             <img src="https://avatars.githubusercontent.com/u/57484725?v=4" width="100;" alt="FadellMuhammad"/>
             <br />
             <sub><b>Fadel Muhammad</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/bywahjoe">
             <img src="https://avatars.githubusercontent.com/u/67533574?v=4" width="100;" alt="bywahjoe"/>
@@ -192,13 +199,6 @@ Mulailah berkontribusi di berbagai repository di github
             <img src="https://avatars.githubusercontent.com/u/76021496?v=4" width="100;" alt="Ftwrr"/>
             <br />
             <sub><b>Ftwrr</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/hasobi">
-            <img src="https://avatars.githubusercontent.com/u/13960580?v=4" width="100;" alt="hasobi"/>
-            <br />
-            <sub><b>Hasobi</b></sub>
         </a>
     </td>
     <td align="center">
