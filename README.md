@@ -1160,6 +1160,13 @@ Mulailah berkontribusi di berbagai repository di github
             <br />
             <sub><b>Vitriawidiasarii</b></sub>
         </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/abdullahJufri">
+            <img src="https://avatars.githubusercontent.com/u/75663902?s" width="100;" alt="vinz15"/>
+            <br />
+            <sub><b>abdullahJufri</b></sub>
+        </a>
     </td></tr>
 </table>
 <!-- readme: contributors -end -->
