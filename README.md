@@ -195,13 +195,6 @@ Mulailah berkontribusi di berbagai repository di github
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/hasobi">
-            <img src="https://avatars.githubusercontent.com/u/13960580?v=4" width="100;" alt="hasobi"/>
-            <br />
-            <sub><b>Hasobi</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/icatpojan">
             <img src="https://avatars.githubusercontent.com/u/70455184?v=4" width="100;" alt="icatpojan"/>
             <br />
@@ -221,15 +214,15 @@ Mulailah berkontribusi di berbagai repository di github
             <br />
             <sub><b>Pabodha Wimalasuriya</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/rikkyarisendi">
             <img src="https://avatars.githubusercontent.com/u/76026854?v=4" width="100;" alt="rikkyarisendi"/>
             <br />
             <sub><b>Rikky Arisendi</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/syofyanzuhad">
             <img src="https://avatars.githubusercontent.com/u/52684582?v=4" width="100;" alt="syofyanzuhad"/>
@@ -263,6 +256,13 @@ Mulailah berkontribusi di berbagai repository di github
             <img src="https://avatars.githubusercontent.com/u/72136325?v=4" width="100;" alt="farhandanu12"/>
             <br />
             <sub><b>Farhandanu12</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/masgalih320">
+            <img src="https://avatars.githubusercontent.com/u/91511974?v=4" width="100;" alt="masgalih320"/>
+            <br />
+            <sub><b>Its Galih</b></sub>
         </a>
     </td></tr>
 <tr>
@@ -474,27 +474,13 @@ Mulailah berkontribusi di berbagai repository di github
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/ekotriono">
-            <img src="https://avatars.githubusercontent.com/u/12593832?v=4" width="100;" alt="ekotriono"/>
-            <br />
-            <sub><b>Eko Triono</b></sub>
-        </a>
-    </td></tr>
-<tr>
-    <td align="center">
-        <a href="https://github.com/elfinsanjaya12">
-            <img src="https://avatars.githubusercontent.com/u/45805396?v=4" width="100;" alt="elfinsanjaya12"/>
-            <br />
-            <sub><b>Elfin Sanjaya</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/Erik3010">
             <img src="https://avatars.githubusercontent.com/u/59276485?v=4" width="100;" alt="Erik3010"/>
             <br />
             <sub><b>Erik</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/SantriInsyaf">
             <img src="https://avatars.githubusercontent.com/u/38537356?v=4" width="100;" alt="SantriInsyaf"/>
@@ -522,8 +508,7 @@ Mulailah berkontribusi di berbagai repository di github
             <br />
             <sub><b>Gathan Akhtar</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/gavrasihombing">
             <img src="https://avatars.githubusercontent.com/u/81018473?v=4" width="100;" alt="gavrasihombing"/>
@@ -537,7 +522,8 @@ Mulailah berkontribusi di berbagai repository di github
             <br />
             <sub><b>Ghani280706</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/hafidzamr">
             <img src="https://avatars.githubusercontent.com/u/49369600?v=4" width="100;" alt="hafidzamr"/>
@@ -565,8 +551,7 @@ Mulailah berkontribusi di berbagai repository di github
             <br />
             <sub><b>Haikel </b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/harsh863">
             <img src="https://avatars.githubusercontent.com/u/53868138?v=4" width="100;" alt="harsh863"/>
@@ -579,6 +564,14 @@ Mulailah berkontribusi di berbagai repository di github
             <img src="https://avatars.githubusercontent.com/u/74886191?v=4" width="100;" alt="elbasrie"/>
             <br />
             <sub><b>Hasan Basrie</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
+        <a href="https://github.com/hasobi">
+            <img src="https://avatars.githubusercontent.com/u/13960580?v=4" width="100;" alt="hasobi"/>
+            <br />
+            <sub><b>Hasobi</b></sub>
         </a>
     </td>
     <td align="center">
@@ -608,15 +601,15 @@ Mulailah berkontribusi di berbagai repository di github
             <br />
             <sub><b>Kevin Rivaldo Panggabean</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/kai90s">
             <img src="https://avatars.githubusercontent.com/u/70423984?v=4" width="100;" alt="kai90s"/>
             <br />
             <sub><b>Khairul Hisham</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Kronzii88">
             <img src="https://avatars.githubusercontent.com/u/53630204?v=4" width="100;" alt="Kronzii88"/>
@@ -651,15 +644,15 @@ Mulailah berkontribusi di berbagai repository di github
             <br />
             <sub><b>Mahiruddin</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Marcelinoderry">
             <img src="https://avatars.githubusercontent.com/u/30742802?v=4" width="100;" alt="Marcelinoderry"/>
             <br />
             <sub><b>Marcelino Derry Utomo</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/retr00exe">
             <img src="https://avatars.githubusercontent.com/u/55347344?v=4" width="100;" alt="retr00exe"/>
@@ -694,15 +687,15 @@ Mulailah berkontribusi di berbagai repository di github
             <br />
             <sub><b>Muhammad Genta</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/MuhammadTatma">
             <img src="https://avatars.githubusercontent.com/u/90306866?v=4" width="100;" alt="MuhammadTatma"/>
             <br />
             <sub><b>Muhammad Tatma</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/zulmarij">
             <img src="https://avatars.githubusercontent.com/u/78574151?v=4" width="100;" alt="zulmarij"/>
@@ -737,15 +730,15 @@ Mulailah berkontribusi di berbagai repository di github
             <br />
             <sub><b>RITWEEK RAJ</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/raflymaulana28">
             <img src="https://avatars.githubusercontent.com/u/52781454?v=4" width="100;" alt="raflymaulana28"/>
             <br />
             <sub><b>Rafly Maulana</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/ramadh-an">
             <img src="https://avatars.githubusercontent.com/u/64788626?v=4" width="100;" alt="ramadh-an"/>
@@ -780,15 +773,15 @@ Mulailah berkontribusi di berbagai repository di github
             <br />
             <sub><b>Rino Satya Putra</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/RizkiDeniPratama">
             <img src="https://avatars.githubusercontent.com/u/70433794?v=4" width="100;" alt="RizkiDeniPratama"/>
             <br />
             <sub><b>Rizki Deni Pratama</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/rizkimcitra">
             <img src="https://avatars.githubusercontent.com/u/62492410?v=4" width="100;" alt="rizkimcitra"/>
@@ -823,15 +816,15 @@ Mulailah berkontribusi di berbagai repository di github
             <br />
             <sub><b>ShzRGB</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Tuttzz">
             <img src="https://avatars.githubusercontent.com/u/91798696?v=4" width="100;" alt="Tuttzz"/>
             <br />
             <sub><b>Tuttzz</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/AlphaVS-76">
             <img src="https://avatars.githubusercontent.com/u/76773190?v=4" width="100;" alt="AlphaVS-76"/>
@@ -866,15 +859,15 @@ Mulailah berkontribusi di berbagai repository di github
             <br />
             <sub><b>Adityamputra27</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Gitcomeon8">
             <img src="https://avatars.githubusercontent.com/u/91707718?v=4" width="100;" alt="Gitcomeon8"/>
             <br />
             <sub><b>Agung Xp</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/alikanz">
             <img src="https://avatars.githubusercontent.com/u/90445044?v=4" width="100;" alt="alikanz"/>
@@ -904,14 +897,6 @@ Mulailah berkontribusi di berbagai repository di github
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/dfr-hub">
-            <img src="https://avatars.githubusercontent.com/u/61171506?v=4" width="100;" alt="dfr-hub"/>
-            <br />
-            <sub><b>Dfr-hub</b></sub>
-        </a>
-    </td></tr>
-<tr>
-    <td align="center">
         <a href="https://github.com/dickyrex19">
             <img src="https://avatars.githubusercontent.com/u/27257736?v=4" width="100;" alt="dickyrex19"/>
             <br />
@@ -924,7 +909,8 @@ Mulailah berkontribusi di berbagai repository di github
             <br />
             <sub><b>DoniGanteng</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/dzakiafif">
             <img src="https://avatars.githubusercontent.com/u/14212613?v=4" width="100;" alt="dzakiafif"/>
@@ -952,8 +938,7 @@ Mulailah berkontribusi di berbagai repository di github
             <br />
             <sub><b>Fatik</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/feryadialoi">
             <img src="https://avatars.githubusercontent.com/u/37759681?v=4" width="100;" alt="feryadialoi"/>
@@ -967,7 +952,8 @@ Mulailah berkontribusi di berbagai repository di github
             <br />
             <sub><b>Fihryal Faqiy</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/hafidmust">
             <img src="https://avatars.githubusercontent.com/u/85917329?v=4" width="100;" alt="hafidmust"/>
@@ -995,8 +981,7 @@ Mulailah berkontribusi di berbagai repository di github
             <br />
             <sub><b>Ikhsan15</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Ikhari">
             <img src="https://avatars.githubusercontent.com/u/72252909?v=4" width="100;" alt="Ikhari"/>
@@ -1010,7 +995,8 @@ Mulailah berkontribusi di berbagai repository di github
             <br />
             <sub><b>JaxBCD</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/lo9ic">
             <img src="https://avatars.githubusercontent.com/u/31589259?v=4" width="100;" alt="lo9ic"/>
@@ -1038,8 +1024,7 @@ Mulailah berkontribusi di berbagai repository di github
             <br />
             <sub><b>Novalsungkar</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/pforpajri">
             <img src="https://avatars.githubusercontent.com/u/57586918?v=4" width="100;" alt="pforpajri"/>
@@ -1053,7 +1038,8 @@ Mulailah berkontribusi di berbagai repository di github
             <br />
             <sub><b>Pratikj697</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/rasyidzkun">
             <img src="https://avatars.githubusercontent.com/u/61974564?v=4" width="100;" alt="rasyidzkun"/>
@@ -1081,8 +1067,7 @@ Mulailah berkontribusi di berbagai repository di github
             <br />
             <sub><b>Shafhan</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/shinz-404">
             <img src="https://avatars.githubusercontent.com/u/83520747?v=4" width="100;" alt="shinz-404"/>
@@ -1096,7 +1081,8 @@ Mulailah berkontribusi di berbagai repository di github
             <br />
             <sub><b>Statusyaza</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/theaures">
             <img src="https://avatars.githubusercontent.com/u/91782687?v=4" width="100;" alt="theaures"/>
