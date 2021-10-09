@@ -1,7 +1,7 @@
 # Nama
 Rizki Ramadhan
 
-<img src="https://ibb.co/P4VwFfs" width="200" height="200" align="center"/>
+<img src="https://st2.depositphotos.com/1000877/5947/i/950/depositphotos_59478951-stock-photo-red-kitten.jpg" width="200" height="200" align="center"/>
 
 ### Provisi & Kota
 
