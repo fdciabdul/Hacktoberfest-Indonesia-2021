@@ -890,6 +890,13 @@ Mulailah berkontribusi di berbagai repository di github
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/tanmaynema1">
+            <img src="https://avatars.githubusercontent.com/u/73239619?v=4" width="100;" alt="tanmaynema1"/>
+            <br />
+            <sub><b>Tanmay Nema</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/Tuttzz">
             <img src="https://avatars.githubusercontent.com/u/91798696?v=4" width="100;" alt="Tuttzz"/>
             <br />
@@ -901,13 +908,6 @@ Mulailah berkontribusi di berbagai repository di github
             <img src="https://avatars.githubusercontent.com/u/76773190?v=4" width="100;" alt="AlphaVS-76"/>
             <br />
             <sub><b>Vaibhav Sharma</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/AquaSforza">
-            <img src="https://avatars.githubusercontent.com/u/79515377?v=4" width="100;" alt="AquaSforza"/>
-            <br />
-            <sub><b>Ludovico Sforza</b></sub>
         </a>
     </td></tr>
 <tr>
