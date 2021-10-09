@@ -1,5 +1,5 @@
 # Nama
-Namamu
+Rizki Ramadhan
 
 <img src="https://ibb.co/P4VwFfs" width="200" height="200" align="center"/>
 
@@ -23,4 +23,4 @@ Kota Tegal, Central Java
 
 ### Profile Link
 
-[Rizki](https://github.com/rizkiramadhanx
+[Rizki](https://github.com/rizkiramadhanx)
