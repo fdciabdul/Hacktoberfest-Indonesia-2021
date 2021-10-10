@@ -897,17 +897,17 @@ Mulailah berkontribusi di berbagai repository di github
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/ryandewantoro">
-            <img src="https://avatars.githubusercontent.com/u/8828577?v=4" width="100;" alt="ryandewantoro"/>
-            <br />
-            <sub><b>Ryan Dewantoro</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/SA888-PM">
             <img src="https://avatars.githubusercontent.com/u/51411704?v=4" width="100;" alt="SA888-PM"/>
             <br />
             <sub><b>SA888-PM</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/saamodra">
+            <img src="https://avatars.githubusercontent.com/u/38998978?v=4" width="100;" alt="saamodra"/>
+            <br />
+            <sub><b>Samodra</b></sub>
         </a>
     </td></tr>
 <tr>
