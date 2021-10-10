@@ -1,0 +1,94 @@
+/ip dns static
+add address=127.0.0.1 name=cdn.popcash.net
+add address=127.0.0.1 name=ad*.directrev.com
+add address=127.0.0.1 name=openx.detik.com
+add address=127.0.0.1 name=pagead2.googlesyndication.com
+add address=127.0.0.1 name=*.googleadservices.com
+add address=127.0.0.1 name=*.doubleclick.net
+add address=127.0.0.1 name=*.adnxs.com
+add address=127.0.0.1 name=ad.kaskus.co.id
+add address=127.0.0.1 name=*.kompasads.com
+add address=127.0.0.1 name=ads.qadservice.com
+add address=127.0.0.1 name=cdn.directrev.com
+add address=127.0.0.1 name=*.addthis.com
+add address=127.0.0.1 name=*.clkmon.com
+add address=127.0.0.1 name=*.adrich.cash/*
+add address=127.0.0.1 name=*.aflrm.com/*
+add address=127.0.0.1 name=www.cliponyu.com
+
+# Reddit
+
+add address=151.101.129.140 name=i.redditmedia.com
+add address=52.34.230.181 name=www.reddithelp.com
+add address=151.101.65.140 name=g.redditmedia.com
+add address=151.101.65.140 name=a.thumbs.redditmedia.com
+add address=151.101.1.140 name=redditgifts.com
+add address=151.101.1.140 name=i.redd.it
+add address=151.101.1.140 name=old.reddit.com
+add address=151.101.1.140 name=new.reddit.com
+add address=151.101.129.140 name=reddit.com
+add address=151.101.129.140 name=gateway.reddit.com
+add address=151.101.129.140 name=oauth.reddit.com
+add address=151.101.129.140 name=sendbird.reddit.com
+add address=151.101.129.140 name=v.redd.it
+add address=151.101.1.140 name=b.thumbs.redditmedia.com
+add address=151.101.1.140 name=events.reddit.com
+add address=54.210.123.98 name=stats.redditmedia.com
+add address=151.101.65.140 name=www.redditstatic.com
+add address=151.101.193.140 name=www.reddit.com
+add address=52.3.23.26 name=pixel.redditmedia.com
+add address=151.101.65.140 name=www.redditmedia.com
+add address=151.101.193.140 name=about.reddit.com
+add address=52.5.206.7 name=out.reddit.com
+add address=107.23.236.34 name=events.redditmedia.com
+add address=151.101.61.140 name=e.reddit.com
+add address=52.44.97.90 name=alb.reddit.com
+add address=151.101.197.140 name=s.redditmedia.com
+add address=34.207.103.54 name=sendbirdproxy-06490ff42851cbcc5.chat.redditmedia.com
+add address=52.207.213.188 name=sendbirdproxy-003d8d1fb8653f6f8.chat.redditmedia.com
+add address=34.226.121.89 name=sendbirdproxy-04ea6c3f71aac3e3f.chat.redditmedia.com
+
+# Imgur
+
+add address=107.21.3.138 name=apidocs.imgur.com
+add address=151.101.36.193 name=api.imgur.com
+add address=104.16.53.111 name=help.imgur.com
+add address=151.101.36.193 name=blog.imgur.com
+add address=52.23.39.2 name=browserevents.imgur.com
+add address=151.101.36.193 name=p.imgur.com
+add address=151.101.36.193 name=s.imgur.com
+add address=151.101.36.193 name=store.imgur.com
+add address=151.101.36.193 name=i.imgur.com
+add address=151.101.60.193 name=imgur.com
+add address=151.101.36.193 name=m.imgur.com
+
+#ISP
+
+add address=127.0.0.1 name=a01.uadexchange.com
+add address=127.0.0.1 name=cdn.uzone.id
+add address=127.0.0.1 name=cdn3.uzone.id
+add address=127.0.0.1 name=cfs.uzone.id
+add address=127.0.0.1 name=csf.uzone.id
+add address=127.0.0.1 name=d01.notifa.info
+add address=127.0.0.1 name=d31qbv1cthcecs.cloudfront.net
+add address=127.0.0.1 name=d5nxst8fruw4z.cloudfront.net
+add address=127.0.0.1 name=expose.uzone.id
+add address=127.0.0.1 name=kendedes.uzone.id
+add address=127.0.0.1 name=mercusuar.uzone.id
+add address=127.0.0.1 name=p01.notifa.info
+add address=127.0.0.1 name=p02.notifa.info
+add address=127.0.0.1 name=p03.notifa.info
+add address=127.0.0.1 name=p05.notifa.info
+add address=127.0.0.1 name=usearch.co.id
+add address=127.0.0.1 name=upoint.id
+add address=127.0.0.1 name=uzone.id
+
+#Porn
+
+add address=127.0.0.1 name=www.pornhub.com
+add address=127.0.0.1 name=xnxx.com
+add address=127.0.0.1 name=pandamovie.com
+add address=127.0.0.1 name=javhihi.com
+add address=127.0.0.1 name=xvideos.com
+
+118.97.116.0/24 36.86.63.0/24
