@@ -1044,7 +1044,7 @@ Mulailah berkontribusi di berbagai repository di github
         <a href="https://github.com/eepnasibungkos">
             <img src="https://avatars.githubusercontent.com/u/58653662?v=4" width="100;" alt="eepnasibungkos"/>
             <br />
-            <sub><b>eepnasibungkos</b></sub>
+            <sub><b>Eepnasibungkos</b></sub>
         </a>
     </td>
     <td align="center">
