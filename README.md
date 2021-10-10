@@ -1108,7 +1108,7 @@ Mulailah berkontribusi di berbagai repository di github
         <a href="https://github.com/hemantfegade">
             <img src="https://avatars.githubusercontent.com/u/91684772?v=4" width="100;" alt="hemantfegade"/>
             <br />
-            <sub><b>hemantfegade</b></sub>
+            <sub><b>Hemantfegade</b></sub>
         </a>
     </td>
     <td align="center">
@@ -1194,7 +1194,7 @@ Mulailah berkontribusi di berbagai repository di github
         <a href="https://github.com/riyatyag-6">
             <img src="https://avatars.githubusercontent.com/u/75671046?v=4" width="100;" alt="riyatyag-6"/>
             <br />
-            <sub><b>riyatyag-6</b></sub>
+            <sub><b>Riyatyag-6</b></sub>
         </a>
     </td>
     <td align="center">
