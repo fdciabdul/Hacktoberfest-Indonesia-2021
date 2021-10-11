@@ -1244,7 +1244,7 @@ Mulailah berkontribusi di berbagai repository di github
         <a href="https://github.com/odorifqi">
             <img src="https://avatars.githubusercontent.com/u/72656544?v=4" width="100;" alt="odorifqi"/>
             <br />
-            <sub><b>odorifqi</b></sub>
+            <sub><b>Odorifqi</b></sub>
         </a>
     </td>
     <td align="center">
