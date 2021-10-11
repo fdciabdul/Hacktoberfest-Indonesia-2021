@@ -65,6 +65,13 @@ Mulailah berkontribusi di berbagai repository di github
             <sub><b>>_Rizky.dev</b></sub>
         </a>
     </td>
+     <td align="center">
+        <a href="https://github.com/ahmadfatihin">
+            <img src="https://avatars.githubusercontent.com/u/54095238?v=4" width="100;" alt="ahmadfatihin"/>
+            <br />
+            <sub><b>Fatih</b></sub>
+        </a>
+    </td>
     <td align="center">
         <a href="https://github.com/adialamsyahardi">
             <img src="https://avatars.githubusercontent.com/u/72188177?v=4" width="100;" alt="adialamsyahardi"/>
