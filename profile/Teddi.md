@@ -5,7 +5,7 @@ Teddi Rahman
 
 ### Provisi & Kota
 
-Bali, Tabanan
+Bali, Tabanan, jln kediri
 
 ### Sekolah / Akademik
 [Pondok Programmer](https://pondokprogrammer.com)
