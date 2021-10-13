@@ -31,4 +31,3 @@ Purwokerto,Jawa Tengah
 ### Profile Link
 
 [gemaekashantiputri](https://github.com/gemaekashantiputri)
-```
