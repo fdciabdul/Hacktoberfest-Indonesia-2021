@@ -1380,7 +1380,7 @@ Mulailah berkontribusi di berbagai repository di github
         <a href="https://github.com/samarakoonsach">
             <img src="https://avatars.githubusercontent.com/u/91709729?v=4" width="100;" alt="samarakoonsach"/>
             <br />
-            <sub><b>samarakoonsach</b></sub>
+            <sub><b>Samarakoonsach</b></sub>
         </a>
     </td></tr>
 <tr>
