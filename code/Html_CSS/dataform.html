@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> FORM PERAWATAN HEWAN </title>
+</head>
+<body>
+    <fieldset>
+        <legend> Data Pemilik dan Data Hewan </legend>
+        <h1> Data Pemilik </h1>
+        Nama Lengkap: <input type = "text" name = "name" size = "30">
+        <br>
+        <br>
+        Email: <input type = "email" name = "email" id = "email" size = "30">
+        <br>
+        <br>
+        No. HP: <input type = "text" name = "phone" id = "phone" size = "30">
+        <br>
+        <br>
+        Alamat: <input type="text" name = "address" size = "30">
+        <br>
+        <br>
+        Kota:
+        <select name = "kota" id = "kota">
+            <option value = "Surabaya Pusat"> Surabaya Pusat </option>
+            <option value = "Surabaya Barat"> Surabaya Barat </option>
+            <option value = "Surabaya Timur" selected> Surabaya Timur </option>
+            <option value = "Surabaya Utara"> Surabaya Utara </option>
+            <option value = "Surabaya Selatan"> Surabaya Selatan </option>
+        </select>
+        <br>
+        <br>
+        <h1> Data Hewan dari Pemilik </h1>
+        Nama Hewan: <input type = "text" name = "name" size = "30">
+        <br>
+        <br>
+        Usian Hewan: <input type = "number" name = "hari" id = "hari" min = "1" max = "31"> hari
+        <input type = "number" name = "bulan" id = "bulan" min = "0" max = "12"> bulan
+        <input type = "number" name = "tahun" id = "tahun" min = "0" max = "50"> tahun
+        <br>
+        <br>
+        Tipe Hewan: <input type = "radio" name = "hewan" id = "dog" value = "D"> anjing
+        <input type = "radio" name = "hewan" id = "cat" value = "C"> kucing
+        <input type = "radio" name = "hewan" id = "hamster" value = "H" checked> hamster
+        <input type = "radio" name = "hewan" id = "rabbit" value = "K"> kelinci
+        <br>
+        <br>
+        Tanggal Mulai: <input type = "date" name = "mulai" id = "tanggalmulai">
+        <br>
+        <br>
+        Tanggal Kembali: <input type = "date" name = "kembali" id = "tanggalkembali">
+        <br>
+        <br>
+        Deskripsi Hewan:
+        <br>
+        <textarea name = "Deskripsi" id = "Deskripsi" cols="50" rows="10"></textarea>
+        <br>
+        <br>
+        <h1> Paket untuk Hewan </h1>
+        <br>
+        Tipe Pake yang bisa dipilih untuk anjing dan kucing:
+        <br>
+        <input type = "checkbox" name = "ak" id = "ak" value = "ak"> Perawatan Lengkap (AK1)
+        <br>
+        <br>
+        <input type = "checkbox" name = "ak2" id = "ak2" value = "ak2"> Mandi Jamur, Makan, Vitamin (AK2)
+        <br>
+        <br>
+        <input type = "checkbox" name = "ak3" id = "ak3" value = "ak3"> Mandi Kutu, Makan, Vitamin (AK3)
+        <br>
+        <br>
+        <input type = "checkbox" name = "ak4" id = "ak4" value = "ak4"> Potong Kuku, Makan, Vitamin (AK4)
+        <br>
+        <br>
+        <input type = "checkbox" name = "ak5" id = "ak5"> Potong Bulu, Makan, Vitamin (AK5)
+        <br>
+        <br>
+        Tipe Paket yang bisa dipilih untuk kelinci dan hamster:
+        <br>
+        <input type = "checkbox" name = "kh" id = "kh"> Makan dan Vitamin (HK1)
+        <br>
+        <br>
+        <input type = "checkbox" name = "kh2" id = "kh2"> Makan, Vitamin (HK2)
+        <br>
+        <br>
+        Keterangan:
+        <br>
+        <textarea name = "keterangan" id = "Keterangan" cols = "50" rows = "10"></textarea>
+        <br>
+        <br>
+        <input type = "submit" value = "Proses">
+        <input type = "reset" value = "Reset Data">
+    </fieldset>
+</body>
+</html>
