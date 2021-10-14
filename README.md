@@ -947,13 +947,20 @@ Mulailah berkontribusi di berbagai repository di github
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/Rahul-Roy-Hub">
+            <img src="https://avatars.githubusercontent.com/u/90465213?v=4" width="100;" alt="Rahul-Roy-Hub"/>
+            <br />
+            <sub><b>Rahul Roy</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
         <a href="https://github.com/ramadh-an">
             <img src="https://avatars.githubusercontent.com/u/64788626?v=4" width="100;" alt="ramadh-an"/>
             <br />
             <sub><b>Ramadhan</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Rayhan212">
             <img src="https://avatars.githubusercontent.com/u/68719170?v=4" width="100;" alt="Rayhan212"/>
@@ -988,15 +995,15 @@ Mulailah berkontribusi di berbagai repository di github
             <br />
             <sub><b>RidwanRizqi</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/riyaraa">
             <img src="https://avatars.githubusercontent.com/u/50629099?v=4" width="100;" alt="riyaraa"/>
             <br />
             <sub><b>Rino Satya Putra</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/RizkiDeniPratama">
             <img src="https://avatars.githubusercontent.com/u/70433794?v=4" width="100;" alt="RizkiDeniPratama"/>
@@ -1031,15 +1038,15 @@ Mulailah berkontribusi di berbagai repository di github
             <br />
             <sub><b>SA888-PM</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/saamodra">
             <img src="https://avatars.githubusercontent.com/u/38998978?v=4" width="100;" alt="saamodra"/>
             <br />
             <sub><b>Samodra</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/ShzRGB">
             <img src="https://avatars.githubusercontent.com/u/84216417?v=4" width="100;" alt="ShzRGB"/>
@@ -1074,15 +1081,15 @@ Mulailah berkontribusi di berbagai repository di github
             <br />
             <sub><b>Vandit</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/AquaSforza">
             <img src="https://avatars.githubusercontent.com/u/79515377?v=4" width="100;" alt="AquaSforza"/>
             <br />
             <sub><b>Ludovico Sforza</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/yogadep">
             <img src="https://avatars.githubusercontent.com/u/43542325?v=4" width="100;" alt="yogadep"/>
@@ -1116,13 +1123,6 @@ Mulailah berkontribusi di berbagai repository di github
             <img src="https://avatars.githubusercontent.com/u/68887223?v=4" width="100;" alt="adityamputra27"/>
             <br />
             <sub><b>Adityamputra27</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Gitcomeon8">
-            <img src="https://avatars.githubusercontent.com/u/91707718?v=4" width="100;" alt="Gitcomeon8"/>
-            <br />
-            <sub><b>Agung Xp</b></sub>
         </a>
     </td></tr>
 <tr>
