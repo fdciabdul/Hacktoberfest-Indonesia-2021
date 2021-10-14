@@ -1447,7 +1447,15 @@ Mulailah berkontribusi di berbagai repository di github
             <br />
             <sub><b>Vitriawidiasarii</b></sub>
         </a>
-    </td></tr>
+    </td>
+    <td align="center">
+        <a href="https://github.com/xvbnm48">
+            <img src="https://avatars.githubusercontent.com/u/64114487?v=4" width="100;" alt="Fariz"/>
+            <br />
+            <sub><b>M Fariz Wisnu Prananda</b></sub>
+        </a>
+    </td>
+    </tr>
 </table>
 <!-- readme: contributors -end -->
 Kalian bisa melihat siapa saja yang berkontribusi dalam repository ini
