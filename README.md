@@ -1464,12 +1464,11 @@ Mulailah berkontribusi di berbagai repository di github
     </td>
     <td align="center">
         <a href="https://github.com/xvbnm48">
-            <img src="https://avatars.githubusercontent.com/u/64114487?v=4" width="100;" alt="Fariz"/>
+            <img src="https://avatars.githubusercontent.com/u/64114487?v=4" width="100;" alt="xvbnm48"/>
             <br />
             <sub><b>M Fariz Wisnu Prananda</b></sub>
         </a>
-    </td>
-    </tr>
+    </td></tr>
 </table>
 <!-- readme: contributors -end -->
 Kalian bisa melihat siapa saja yang berkontribusi dalam repository ini
