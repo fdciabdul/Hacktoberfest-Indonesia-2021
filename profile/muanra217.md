@@ -1,35 +1,34 @@
-```
+
 # Nama
 Muhamad Dian Rahendra
 
-<img src="" width="200" height="200" align="center"/>
+<img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="200" height="200" align="center"/>
 
 ### Provisi & Kota
 Bekasi, Jawa Barat
 
 
 ### Sekolah / Akademik
- -UPN Veteran Jakarta
+UPN Veteran Jakarta
 
 ### Hobi
 
--main game
--nonton
--denger lagu
+* main game
+* nonton
+* denger lagu
 
 ### Bahasa Pemograman
 
--javascript
--c++
--java
+* javascript
+* c++
+* java
 
 ### Project
 
--portofolio website
--to-do list
--
+* portofolio website
+* todo list
 
 ### Profile Link
 
-[Nama](https://github.com/muanra217)
-```
+[muanra217](https://github.com/muanra217)
+
