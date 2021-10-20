@@ -1,34 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@snowfluke 
-snowfluke
-/
-ip-calc-regex
-Public
-1
-00
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-ip-calc-regex/index.js /
-@snowfluke
-snowfluke fix host max, total subnet, and outrange cidr checking
-Latest commit 5d9f3fc on May 30
- History
- 1 contributor
-164 lines (128 sloc)  4.74 KB
-   
 const ipCalc = (ip, cat, val) => {
 
 	if (!/^(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)$/.test(ip)) {  
