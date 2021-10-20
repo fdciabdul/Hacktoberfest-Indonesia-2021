@@ -1,4 +1,3 @@
-```
 # Nama
 Awal Ariansyah
 
@@ -32,4 +31,4 @@ Cilacap, Jawa Tengah
 ### Profile Link
 
 [Awal Ariansyah](https://github.com/snowfluke)
-```
+
