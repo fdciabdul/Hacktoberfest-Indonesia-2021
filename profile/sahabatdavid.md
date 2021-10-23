@@ -1,4 +1,3 @@
-```
 # Nama
 
 Muhammad David Ismail MS
@@ -31,4 +30,3 @@ Pondok Programmer Kretek
 ### Profile Link
 
 [David Ismail](https://github.com/sahabatdavid)
-```
