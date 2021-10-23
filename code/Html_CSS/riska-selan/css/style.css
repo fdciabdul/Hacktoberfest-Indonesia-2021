@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Fondamento&family=Grenze+Gotisch:wght@300&family=Raleway:wght@500&family=Tangerine:wght@700&display=swap');
+
+.font-primary {
+	font-family: 'Raleway', sans-serif;
+}
+
+.font-tangerine {
+	font-family: 'Tangerine', cursive;
+}
+
+.font-fondamento {
+	font-family: 'Fondamento', cursive;
+}
+
+.font-grenze {
+	font-family: 'Grenze Gotisch', cursive;
+}
+
+html {
+  scroll-behavior: smooth;
+  /*overflow:hidden;*/
+}
+
+.tabcontent {
+    display: none;
+    animation: fadeEffect 1s; 
+}
+
+.full div {
+	height: 100%;
+}
+
+/* play button */
+
+
+.explodeSvg {
+	animation: explodeSvg 3s infinite;
+}
+
+.explodeSmallSvg {
+	animation: explodeSmallSvg 3s infinite;
+}
+
+.scrollBanner {
+	animation: scrollBanner 3s infinite;
+}
+
+@keyframes explodeSvg {
+     from {
+        transform : scale(1);
+        opacity   : 1;
+    }
+    50% {
+        transform : scale(1.2);
+    }
+    to {
+        transform : scale(1);
+        opacity   : 1;
+    }
+}
+
+@keyframes explodeSmallSvg {
+     from {
+        transform : scale(1.2);
+        opacity   : 1;
+    }
+    50% {
+        transform : scale(1);
+    }
+    to {
+        transform : scale(1.2);
+        opacity   : 1;
+    }
+}
+
+@keyframes scrollBanner {
+	from {transform : translateX(0); }
+    25%  {transform : translateX(25%); }
+    75%  {transform : translateX(-25%); }
+    to   {transform : translateX(0); }
+}
+
+/* Go from zero to full opacity */
+@keyframes fadeEffect {
+  from {opacity: 0;}
+  to {opacity: 1;}
+}

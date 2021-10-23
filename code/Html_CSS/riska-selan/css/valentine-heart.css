@@ -1,0 +1,66 @@
+@import url(https://fonts.googleapis.com/css?family=Pacifico);
+.bgoverlay{
+  position: absolute;
+}
+
+.ico{
+  display: block;
+}
+.open .ico{
+  animation: open 4s;
+  transform: scale(10);
+}
+
+.ico:before,
+.ico2:before,
+.ico2:after{
+  position: absolute;
+  top: 10px;
+  left: 20px;
+
+}
+.ico:before,
+.ico2:before,
+.ico2:after{
+  display: block;
+  font-size: 150px;
+  color: #e53e3e;
+  /*color: #ff4081;*/
+  content: "\f004";
+  font-family: FontAwesome;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ico:before{
+  z-index: 3;
+}
+
+.ico2:before{
+  animation: explodeSmall 3s infinite;
+}
+.ico2:after{
+  animation: explodeSmall 2s infinite;
+}
+
+@keyframes explode {
+    from {
+      transform: scale(1);
+      opacity: 1;
+    }
+    to {
+      transform: scale(1.6);
+      opacity: 0;
+    }
+}
+@keyframes explodeSmall {
+    from {
+      transform: scale(1);
+      opacity: 1;
+    }
+    to {
+      transform: scale(1.2);
+      opacity: 0;
+    }
+}

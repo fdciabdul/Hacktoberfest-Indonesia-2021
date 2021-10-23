@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" />
+  <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="stylesheet" href="css/valentine-heart.css" />
+  <title>Riska Selan</title>
+</head>
+<body>
+	<main class="capitalize">
+		<section>
+			<div class="grid grid-cols-2 h-screen text-center bg-red-500 font-primary text-white">
+				<div class="col-span-2 text-xl grid items-center p-1">
+					<span>Kalo abis liriknya, klik <span class="bg-white text-red-500 p-1">Next <i class="fa fa-play" aria-hidden="true"></i></span></span>
+					<br>
+					<span>apa lagi? Yaudah Play aja</span>
+					<a id="play" href="#one" onclick="play()"><img data-aos="fade-down" class="mx-auto" src="img/play-btn.svg"></a>
+				</div>
+					<audio id="audio" src="music/bentuk-cinta-full.ogg" type="audio/ogg" controls autoplay hidden="true"></audio>
+			</div>
+		</section>
+		<section id="one">
+			<div class="grid grid-cols-2 h-screen text-center font-primary">
+				<div class="col-span-2 text-5xl text-blue-600 font-fondamento grid items-center"><span data-aos="fade-down">Pernahkah<br>Kau Bertanya?</span></div>
+				<div class="col-span-1 bg-blue-600 text-blue-200 text-5xl grid items-center">
+					<span>Seperti Apa bentuk</span>
+				</div>
+				<div class="col-span-1 bg-blue-300 text-blue-700 text-5xl grid items-center">
+					<img data-aos="fade-right" class="mx-auto w-20" src="img/glass-of-water.svg">air Tanpa Wadah
+				</div>
+				<div class="col-span-2 bg-blue-800 w-full">
+					<a href="#two"><button class="w-full h-full text-white text-xl">Next <i class="fa fa-play" aria-hidden="true"></i></button></a>
+				</div>
+			</div>
+		</section>
+		<br>
+		<section id="two">
+			<div class="grid grid-cols-2 h-screen text-center">
+				<div class="col-span-2 text-5xl bg-red-200 text-red-600 font-fondamento grid items-center animate__animated animate__bounce animate__delay-2s"><span data-aos="fade-down">Pernahkah<br>Kau mengira?</span></div>
+				<div class="col-span-1 bg-red-500 text-red-100 text-3xl uppercase font-fondamento grid items-center">
+					<span data-aos="fade-top" >Seperti Apa bentuk</span>
+				</div>
+				<div class="col-span-1 text-red-700 text-5xl font-primary p-auto grid items-center">
+					<!-- Happy Valentines day Codepen! -->
+					<div  data-aos="zoom-in" data-aos-delay="1000" class="bgoverlay grid items-center">
+						<div class="container">
+							<span class="ico">
+								<span class="ico2"></span>
+							</span>
+						</div>
+					</div>
+				</div>
+				<div class="col-span-2 bg-red-300 w-full">
+					<a href="#three"><button class="w-full h-full text-red-700 text-xl">Next <i class="fa fa-play" aria-hidden="true"></i></button></a>
+				</div>
+			</div>
+		</section>
+		<br>
+		<section id="three">
+			<div class="grid grid-cols-2 h-screen font-grenze text-center">
+				<div class="col-span-2 text-6xl bg-yellow-300 text-yellow-700 grid items-center"><span data-aos="fade-down">Rambut...</span></div>
+
+				<div class="col-span-1 text-xl bg-yellow-300 text-yellow-700 grid items-center">
+					<img data-aos-delay="1500" class="mx-auto w-40" src="img/my_feed.svg">
+				</div>
+				<div class="col-span-1 text-6xl bg-yellow-400 text-yellow-700 grid items-center" data-aos="fade-right" data-aos-delay="1000">warna warni</div>
+
+				<div class="col-span-1 text-5xl bg-teal-400 grid items-center" data-aos="fade-left" data-aos-delay="2000">bagai Gulali</div>
+				<div class="col-span-1 text-xl bg-teal-300 grid items-center">
+					<img data-aos-delay="2500" class="mx-auto w-40" src="img/candy.svg">
+				</div>		
+
+				<div class="col-span-2 bg-teal-800 w-full">
+					<a href="#four"><button class="w-full font-primary text-teal-200 h-full text-xl">Next <i class="fa fa-play" aria-hidden="true"></i></button></a>
+				</div>
+			</div>
+		</section>
+		<br>
+		<section id="four">
+			<div class="grid grid-cols-2 h-screen font-grenze text-center">
+				<div class="col-span-2 text-6xl bg-pink-300 text-red-800 grid items-center"><span data-aos="fade-down">Imut Lucu...</span></div>
+
+				<div class="col-span-1 text-5xl bg-yellow-500 text-yellow-700 grid items-center"><span data-aos="fade-down">walau tak terlalu</span></div>
+				<div class="col-span-1 text-5xl bg-yellow-400 text-yellow-700 grid items-center">
+					<img class="mx-auto w-40" src="img/designer_girl.svg" data-aos="zoom-in" data-aos-delay="2000">
+					<span data-aos="fade-top" data-aos-delay="1000">tinggi</span>
+				</div>			
+
+				<div class="col-span-2 bg-teal-700 w-full">
+					<a href="#five"><button class="w-full font-primary text-teal-200 h-full text-xl">Next <i class="fa fa-play" aria-hidden="true"></i></button></a>
+				</div>
+			</div>
+		</section>
+		<br>
+		<section id="five">
+			<div class="grid grid-cols-2 h-screen font-fondamento text-center">
+				<div class="col-span-2 text-5xl bg-orange-300 text-red-800 grid items-center">Pipi Chubby<img class="mx-auto w-20" src="img/cute-girl.svg"></div>
+				<div class="col-span-2 text-6xl bg-red-600 text-white grid font-tangerine items-center"><span data-aos="fade-down">Kulit Putih</span></div>
+
+				<div class="col-span-1 text-5xl bg-orange-200 text-orange-600 grid items-center"><span data-aos="fade-left" data-aos-delay="1000">senyum Manis</span></div>
+				<div class="col-span-1 text-5xl bg-orange-300 text-orange-700 grid items-center">
+					<img class="mx-auto w-32 explodeSvg" src="img/cute-girl-smile.svg">
+				</div>
+
+				<div class="col-span-1 text-5xl bg-teal-400 text-teal-800 grid items-center">
+					<img class="mx-auto w-32 explodeSmallSvg" src="img/rabbit.svg">
+				</div>
+				<div class="col-span-1 text-5xl bg-teal-200 text-teal-800 grid items-center"><span data-aos="fade-right" data-aos-delay="2000">Gigi kelinci</span></div>
+
+				<div class="col-span-2 bg-red-600 w-full">
+					<a href="#six"><button class="w-full font-primary text-white h-full text-xl">Next <i class="fa fa-play" aria-hidden="true"></i></button></a>
+				</div>
+			</div>
+		</section>
+		<br>
+		<section id="six">
+			<div class="grid grid-cols-2 h-screen font-tangerine text-center">
+				<div class="col-span-2 text-6xl bg-orange-300 text-red-800 grid items-center p-4">
+					Membuatku Tersadar
+					<img data-aos="fade-top" data-aos-delay="1000" class="mx-auto w-56" src="img/flower.svg">
+				</div>
+				<div class="col-span-2 bg-red-600 w-full">
+					<a href="#seven"><button class="w-full font-primary text-white h-full text-xl">Next <i class="fa fa-play" aria-hidden="true"></i></button></a>
+				</div>
+			</div>
+		</section>
+		<br>
+		<section id="seven">
+			<div class="grid grid-cols-2 h-screen font-primary text-center">
+				<div class="col-span-2 text-6xl bg-grey-200 text-red-800 grid items-center p-4">
+					Bentuk <span class="text-red-600 font-tangerine" data-aos="zoom-in" style="font-size: 2em">Cinta</span> itu...
+				</div>
+				<div class="col-span-2 w-full">
+					<a href="#eight"><button class="w-full font-primary text-red-600 h-full text-xl">Next <i class="fa fa-play" aria-hidden="true"></i></button></a>
+				</div>
+			</div>
+		</section>
+		<br>
+		<section id="eight">
+			<div class="grid grid-cols-2 h-screen font-tangerine text-center">
+				<div class="col-span-2 bg-red-600 text-white grid items-center p-4">
+					<span class="font-tangerine" style="font-size: 5em" data-aos="zoom-in">Ya Riska...</span>
+				</div>
+				<div class="col-span-1 bg-red-500 grid items-center p-2"><img class="mx-auto w-full" src="img/end/couple(1).svg"></div>
+				<div class="col-span-1 grid items-center p-2"><img class="mx-auto w-full" src="img/end/couple.svg"></div>
+				<div class="col-span-2 bg-red-400 text-white grid items-center"><img class="mx-auto w-40" src="img/end/family.svg"></div>
+				<div class="col-span-2 bg-red-400 text-white grid items-center">
+					<a href="#one" onclick="play()"><button class="w-full font-primary h-full text-xl">Play Again <i class="fa fa-play" aria-hidden="true"></i></button></a>
+				</div>
+			</div>
+		</section>
+	</main>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script src="js/script.js"></script>
+</body>
+</html>
