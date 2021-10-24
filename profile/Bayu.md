@@ -1,7 +1,7 @@
 # Nama
 Namamu
 
-<img src="https://4.bp.blogspot.com/-gyXTeoYfZYU/WLGzd5IbNEI/AAAAAAAAAgI/7yE1wnuMN4ssfET4BA4GIq18k6xTETuEQCLcB/s1600/logo%2B3.png" width="200" height="200" align="center"/>
+<img src="https://avatars.githubusercontent.com/u/65327648?s=400&u=a1553eb29967486f209c8da4bc08cb9a2a587413&v=4" width="200" height="200" align="center"/>
 
 ### Provisi & Kota
 Jombang, Jawa Timur
